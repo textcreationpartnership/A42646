@@ -1,0 +1,1322 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Elogium heroinum, or, The praise of worthy women written by C.G., Gent.</title>
+            <author>C. G. (Charles Gerbier)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 122 KB of XML-encoded text transcribed from 107 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42646</idno>
+            <idno type="STC">Wing G583</idno>
+            <idno type="STC">ESTC R7654</idno>
+            <idno type="EEBO-CITATION">12251652</idno>
+            <idno type="OCLC">ocm 12251652</idno>
+            <idno type="VID">57133</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42646)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57133)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 145:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Elogium heroinum, or, The praise of worthy women written by C.G., Gent.</title>
+                  <author>C. G. (Charles Gerbier)</author>
+               </titleStmt>
+               <extent>[38], 164, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.M. &amp; A.C. and are sold by William Nott ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to C. Gerbier. Cf. BM.</note>
+                  <note>Reproduction of original in Harvard University Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Women --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:57133:1" rendition="simple:additions"/>
+            <pb facs="tcp:57133:1"/>
+            <p>
+               <hi>ELOGI<g ref="char:V">Ʋ</g>M HEROINUM:</hi> OR, THE PRAISE OF WORTHY WOMEN.</p>
+            <p>
+               <hi>Written by</hi> C. G. <hi>Gent.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T.M.</hi> &amp; <hi>A.C.</hi> and are ſold by <hi>William Nott,</hi> neer the <hi>Chequer</hi> Office, in <hi>Ivy-lane.</hi> 1651.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:57133:2"/>
+            <pb facs="tcp:57133:2"/>
+            <head>TO THE MOST EXCELLENT, MOST ILLUSTRIOUS, AND HIGH-BORN <hi>Princeſſe,</hi> ELIZABETH OF <hi>BOHEMIA.</hi>
+            </head>
+            <opener>
+               <salute>Madam,</salute>
+            </opener>
+            <p>YOur illuſtri<g ref="char:EOLhyphen"/>ous Name is traced on the Frontiſ-piece of
+<pb facs="tcp:57133:3"/>this Book, as that of <hi>Minerva</hi> in the Temple of Ver<g ref="char:EOLhyphen"/>tue; To render the names of theſe Famous <hi>Veſtals,</hi> more recommen<g ref="char:EOLhyphen"/>dable by that of ſo great and illuſtri<g ref="char:EOLhyphen"/>ous a <hi>Princeſſe</hi> as your Highneſs is: whoſe marvellous wiſdom, and pro<g ref="char:EOLhyphen"/>found knowledge
+<pb facs="tcp:57133:3"/>in Arts, Sciences, and Languages, is admired by all men; whoſe great Iudgement, and Goodneſs, are in<g ref="char:EOLhyphen"/>expreſſible ſymp<g ref="char:EOLhyphen"/>toms of excelling Qualities.</p>
+            <p>Let therefore your memory, moſt Sacred and Famous Princeſs, be as eternal, as
+<pb facs="tcp:57133:4"/>your illuſtrious life happy and ſuccesfull! May your future for<g ref="char:EOLhyphen"/>tunes be anſwer<g ref="char:EOLhyphen"/>able to your ver<g ref="char:EOLhyphen"/>tues! that as you have the daily earneſt prayers of all good men, ſo you may have the ſucceſſe of their wiſhes; the which though many who
+<pb facs="tcp:57133:4"/>never yet ſaw you deſire, yet all thoſe who have had the honour to be ac<g ref="char:EOLhyphen"/>quainted w<hi rend="sup">th</hi> you, know how worth<g ref="char:EOLhyphen"/>ily You deſerve them: For that your vertues have raiſed you to ſuch a high degree of perfection, as that you render not only thoſe of your
+<pb facs="tcp:57133:5"/>but even all Men unable to imitate Your <hi>Highneſſe:</hi> They, as well as my ſelf, are there<g ref="char:EOLhyphen"/>fore ſolely obliged to admire You: which is the only intent of</p>
+            <closer>
+               <salute>Madame,</salute> 
+               <signed>Your Highneſſes Moſt humble, moſt obedi<g ref="char:EOLhyphen"/>ent, and moſt faith<g ref="char:EOLhyphen"/>full Servant, <hi>CHARLES GERBIER.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:57133:5"/>
+            <head>To the moſt Honourable, THE <hi>Counteſs Dowager</hi> OF <hi>CLAIRE,</hi> The Patroneſs of all Vertue and Learning.</head>
+            <opener>
+               <salute>Madame,</salute>
+            </opener>
+            <p>
+               <hi>PSaphon</hi> having aſſem<g ref="char:EOLhyphen"/>bled ſeveral Birds, taught them to pronounce theſe words; <hi>Pſaphon is a God!</hi> and afterwards ſetting them at liberty, (by the rehearſal of their leſſon) they did ſpread their maſters glory through<g ref="char:EOLhyphen"/>out all the Vniverſe.</p>
+            <pb facs="tcp:57133:6"/>
+            <p>Theſe ever to be admired <hi>Women</hi> (being revived) have learned your <hi>Honours</hi> name; and as all the world did en<g ref="char:EOLhyphen"/>vy the glory of their fame, ſo will they now invite all men to admire your perfecti<g ref="char:EOLhyphen"/>ons, they will ſay that few Nations or Ages have yeelded your equal, that to your know<g ref="char:EOLhyphen"/>ing Judgement all learned men have recourſe, and that your matchleſſe wiſdome will be an example of admiration to all poſterity.</p>
+            <p>May all men blazon your eminent deſerts! may your moſt vertuous minde enjoy what it moſt deſires or de<g ref="char:EOLhyphen"/>ſerves! and may Heaven powr down upon your Honour the dews of thouſand Celeſtial
+<pb facs="tcp:57133:6"/>bleſſings together with all true happineſſe, are the zealous wiſhes of him who is</p>
+            <closer>
+               <salute>Madam,</salute> 
+               <signed>Your HONOURS moſt humble, devoted zealous ſervant, CHARLES GERBIER.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:57133:7"/>
+            <head>TO THE Vertuous Accompliſh't LADY <hi>Anne Hudſon.</hi>
+            </head>
+            <opener>
+               <salute>MADAME,</salute>
+            </opener>
+            <p>I Do not offer unto you any thing of my own, for that it is already yours, or that you are worthy thereof, ſince your eyes have not ſo many charms, nor your attractions ſo much power to captivate hearts, as the luſtre of your Vertues do expreſſe unto
+<pb facs="tcp:57133:7"/>all men the admirable per<g ref="char:EOLhyphen"/>fections both of Nature and Grace which are ex<g ref="char:EOLhyphen"/>tant in your perſon.</p>
+            <p>Your modeſty, the mild<g ref="char:EOLhyphen"/>neſſe of your diſcourſe, and that gracious humility with the which you enter<g ref="char:EOLhyphen"/>tain thoſe who have the honour to be acquainted with you, are precious jewels which do atchieve your renown.</p>
+            <p>Give me leave then (Madam) to end this my thrice humble dedication, with that homage and with that bounden oblation which I owe to your all at<g ref="char:EOLhyphen"/>tracting goodneſſe, and let your favourable ac<g ref="char:EOLhyphen"/>ceptance deign to receive
+<pb facs="tcp:57133:8"/>it, ſince it's preſented with all the ſubmiſſiv'ſt reſpects imaginable by him who puts all his heart in his Pen (the better) to aſſure you, that amongſt thoſe who admire you, none can be more then himſelf,</p>
+            <closer>
+               <salute>Madam,</salute> 
+               <signed>
+                  <hi>Your moſt humble and obedient ſervant,</hi> Charles Gerbier.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:57133:8"/>
+            <head>To his worthy Friend, Mr. CHARLES GERBIER, Upon this his <hi>ELOGI<g ref="char:V">Ʋ</g>M HEROIN<g ref="char:V">Ʋ</g>M.</hi>
+            </head>
+            <lg>
+               <l>Were not this Treatiſe fully fraught</l>
+               <l>with its intrinſick worth,</l>
+               <l>It might (like Cloth that's finely wrought)</l>
+               <l>Be to the Preſs put forth</l>
+               <l>A luſter to receive, whereby</l>
+               <l>Its ſale might bettered be.</l>
+               <l>But as its value doth rely</l>
+               <l>On its reality,</l>
+               <l>You have it thus undeck'd, without</l>
+               <l>An influence of Verſe,</l>
+               <l>Or lofty Poems, which no doubt</l>
+               <l>The Author could rehearſe:</l>
+               <l>But he intends not the leaſt part</l>
+               <l>Of Rhetorick to ſtrain;</l>
+               <pb facs="tcp:57133:9"/>
+               <l>His Theam is void of flatt'ring Art,</l>
+               <l>He ſhuns Ambages vain.</l>
+               <l>For who'mongſt mortals dare be bent</l>
+               <l>T'oppoſe it with a No?</l>
+               <l>And ſince the bruiteſt beaſts aſſent</l>
+               <l>Who then would not do ſo?</l>
+               <l>With me let all men then confeſſe</l>
+               <l>That which I do diſcloſe;</l>
+               <l>The praiſe of Women's ne'r the leſſe,</l>
+               <l>Though it be writ in Proſe.</l>
+            </lg>
+            <closer>
+               <signed>B. S. <hi>K<hi rend="sup">t</hi>.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:57133:9"/>
+            <head>To his much valued Friend, THE AUTHOR.</head>
+            <lg>
+               <l>The Grecian Beauties firſt <hi>Apelles</hi> ſaw,</l>
+               <l>Before he dar'd fair <hi>Venus</hi> Picture draw,</l>
+               <l>That he out of their many graces, one</l>
+               <l>Might make of all the only Paragon.</l>
+               <l>So thou out of the beſt, the beſt haſt writ;</l>
+               <l>Haſt cull'd the choiceſt, beſt there<g ref="char:EOLhyphen"/>with to fit</l>
+               <l>This work of thine, that it in worth and ſtore</l>
+               <l>Might all ſurpaſſe have written thee before,</l>
+               <l>Or after ſhall. How much theſe Angels owe</l>
+               <l>To this thy worthy pains, themſelves beſt know.</l>
+            </lg>
+            <closer>
+               <signed>
+                  <hi>E. B.</hi> 
+                  <abbr>Eſq</abbr>
+               </signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:57133:10"/>
+            <head>To his worthy friend Mr. <hi>Charles Gerbier,</hi> upon his <hi>Elogium Heroinum,</hi> or the <hi>Praiſe of worthy</hi> Women.</head>
+            <lg>
+               <l>I find my ſelf by much to be too weak</l>
+               <l>To adde a grace where every line will ſpeak</l>
+               <l>Where female conſtancie, and beauty you</l>
+               <l>Have open laid to cenſure, and to view;</l>
+               <l>Which will in ſpight of envious time compriſe</l>
+               <l>Your worthy Women in our memo<g ref="char:EOLhyphen"/>ries;</l>
+               <l>And from reſpects ingag'd, I muſt make known</l>
+               <l>Thy lines are unaffected, free, thy own</l>
+               <l>Thy matter's rare, expreſſions genuine</l>
+               <l>Stile moſt emphatical, &amp; wit divine;</l>
+               <l>Then reap thy due, and let <hi>Apollos</hi> bay<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,</l>
+               <l>In ſpight of Autumne, grow to crown thy praiſes.</l>
+            </lg>
+            <closer>
+               <signed>J. H.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:57133:10"/>
+            <head>To his loving Brother, ON HIS <hi>ELOGI<g ref="char:V">Ʋ</g>M HEROIN<g ref="char:V">Ʋ</g>M,</hi> OR HIS <hi>Praiſe of worthy</hi> Women.</head>
+            <lg>
+               <l>Scarce dare I theſe rude lines prefix</l>
+               <l>To this your worthy Womens praiſe,</l>
+               <l>Leſt therby I might chance t'eclipſe</l>
+               <l>The glory of their ſplendent rayes:</l>
+               <l>For by my ſtile in it's ruffe caſt,</l>
+               <l>I may their excellencies blaſt.</l>
+               <l>Ne'r did I taſt of thoſe ſweet ſtreams</l>
+               <l>Which charming Helicon doth yeeld</l>
+               <l>Nor hath <hi>Apollo</hi> with his beams</l>
+               <l>Me grac't, ſo that into the field</l>
+               <l>O' th' Muſes I am loth t'appear</l>
+               <l>Leſt infamy me thence may bear.</l>
+               <pb facs="tcp:57133:11"/>
+               <l>The very ſubject of your Book,</l>
+               <l>Doth clearly unto us ſet forth</l>
+               <l>It's excellence; nor need you look</l>
+               <l>That I attempt t'inlarge its worth;</l>
+               <l>This far ſurpaſſeth my ſmall skill</l>
+               <l>Nor can I reach it with my quill.,</l>
+               <l>And though I know it's a hard task</l>
+               <l>To pleaſe all pallates, yet ſubmit</l>
+               <l>I muſt to cenſure, and unmask</l>
+               <l>My ignorance, rather then it</l>
+               <l>Be ſaid that I juſt then withdrew</l>
+               <l>My hand, this tribute being due.</l>
+               <l>Expreſſe I cannot, what that Sexe</l>
+               <l>(Which you ſo worthily do blaze)</l>
+               <l>Deſerved hath; nor need we vexe</l>
+               <l>Our ſelves, that they have born the bayes</l>
+               <l>Away from us, for they excel</l>
+               <l>All thoſe who on this orb do dwel.</l>
+               <l>Their brave atchievments do outvye</l>
+               <l>What ere we undertook, and they</l>
+               <l>Themſelves to all eternity</l>
+               <l>Have Trophies rais'd, ſo that we may</l>
+               <l>Sit down, and them admire;</l>
+               <l>Their eminencies it require.</l>
+               <pb facs="tcp:57133:11"/>
+               <l>Nay, ought we not</l>
+               <l>Turn pupils unto them, obey (ſhame) though to our</l>
+               <l>Their profound precepts, &amp; diſclaim</l>
+               <l>Thoſe vices which us daily ſway,</l>
+               <l>Even thoſe (as't were) us captive hold</l>
+               <l>By fettred paſsions manifold</l>
+               <l>Awake therefore ye ſons of men,</l>
+               <l>Rub up your drowſie ſouls, 'tis meet,</l>
+               <l>We ſhould take heart of grace agen;</l>
+               <l>Rowſe up your ſelves, ſtand on your feet;</l>
+               <l>At leaſt endeavor to regain</l>
+               <l>Our honors, by theſe females ſlain.</l>
+               <l>My Author doth to you recount</l>
+               <l>The ſeveral faculties wherein</l>
+               <l>Theſe worthy Women us ſurmount</l>
+               <l>As paterns, for vs to begin</l>
+               <l>Our n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w profeſſion by; the ſame</l>
+               <l>By which they gain'd eternal fame</l>
+               <l>Wherefore with him let us adore</l>
+               <l>Thoſe deities, let's follow cloſe</l>
+               <l>Their vertuous foot-ſteps &amp; implore</l>
+               <l>To be accounted even as thoſe</l>
+               <l>Whopaſt their lives in great renown</l>
+               <l>And now entomb'd enjoy a Crown.</l>
+            </lg>
+            <closer>
+               <signed>
+                  <hi>Geo. Gerbier</hi> 
+                  <abbr>Eſq.</abbr>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:57133:12"/>
+            <head>The <hi>Printer's</hi> Apologie, For not having inſerted on the Fron<g ref="char:EOLhyphen"/>tiſpiece of this Book, all the Verſes which were ſent unto him.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>WHen a ſumptuous Scene is to be repreſented, or when a ſolemn Tilting is to be performed, and that an Amphy<g ref="char:EOLhyphen"/>theater is prepared; then from all parts ſuch multitudes of People reſort thereunto, as that the main for which they came together, is by them al<g ref="char:EOLhyphen"/>moſt hidden.</p>
+            <p>Therefore that this Scene, this Race, and Amphytheater (whereunto moſt men of this World, if not all, would wil<g ref="char:EOLhyphen"/>lingly reſort, firſt with their
+<pb facs="tcp:57133:12"/>Eyes, then with their Hands, &amp; finally with all their Senſes, ſtriving and conteſting which of them all ſhould ſooneſt be admitted) might appeare, and not be ſmothered up by the preſſe of ſo many, whoſe Pens may pretend as much right as this Author, to ſhew themſelves; And leſt he ſhould ſuffer, that deſerves ſo well, in the ſetting forth of this glorious Scene, I have omitted the inſerting of ſeveral Verſes; and do publiſh by that Trumpet of <hi>Fame,</hi> by that of <hi>Vertue,</hi> by that of <hi>Con<g ref="char:EOLhyphen"/>ſtancie,</hi> and by that of <hi>Honour,</hi> (which theſe <hi>Women</hi> do poſſeſs) to ſtand by, and to make uſe here onely of your <hi>eyes:</hi> For <hi>Woman</hi> is the Mark, and <hi>Woman</hi> is the Trophie. And then will this Work appeare in its beſt luſtre.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:57133:13"/>
+            <pb facs="tcp:57133:13"/>
+            <head>
+               <hi>The Preface</hi> TO THE <hi>READER.</hi>
+            </head>
+            <p>AS the <hi>Breaſt-plate</hi> of Judg<g ref="char:EOLhyphen"/>ment which the <hi>High-prieſt</hi> wore, did beare theſe words, <hi>
+                  <g ref="char:V">Ʋ</g>rim</hi> &amp; <hi>Thummim,</hi> which ſignifie Light and Perfection:</p>
+            <p>So on the Frontiſpiece of this Book there appeares ſo powerful a Charm, as that all thoſe cannot chuſe but be void of wit and reaſon, who have not the curioſity to view that which it contains: for thoſe things which it relates, poſſeſse all the requiſite perfections, to ſtrike an admiration into the minds of ſenſible Creatures.</p>
+            <pb facs="tcp:57133:14"/>
+            <p>It is that powerful Charm, which made <hi>Achilles</hi> to forſake a Battel;</p>
+            <p>It is that which <hi>Narciſſus</hi> diſ<g ref="char:EOLhyphen"/>daining, pined away, for his own ſhadow;</p>
+            <p>It is that, the loſſe whereof <hi>Alexander</hi> did lamentwith tears;</p>
+            <p>It is that, by means whereof <hi>Socrates, Plato, Ariſtotle,</hi> and all the reſt of the Philoſophers have attained unto ſuch a famous reputation.</p>
+            <p>It is that, without which all our humane life would have been but a manifeſt death;</p>
+            <p>It is that, for which in former Ages men would rather loſe their Seats, their Authority, their Office, then falſly to ſu<g ref="char:EOLhyphen"/>ſpect it, or raſhly to accuſe it;</p>
+            <p>It is that, the ſight whereof ſtruck <hi>Tyraſius</hi> King of <hi>Thebes</hi> blind.</p>
+            <pb facs="tcp:57133:14"/>
+            <p>It is that, which did not only ſubdue <hi>Alexander</hi> (who had ſubdu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d all the Eaſtern King<g ref="char:EOLhyphen"/>doms, and who was Lord of all the World) but alſo <hi>Caeſar</hi> and <hi>Hanibal;</hi> and which conſtrain<g ref="char:EOLhyphen"/>ed <hi>Euriſtes</hi> King of <hi>Athens,</hi> to ſeek unto <hi>Hercules</hi> and <hi>Theſeus</hi> to be aiding unto him to with<g ref="char:EOLhyphen"/>ſtand its power.</p>
+            <p>It is that, at the beholding whereof the <hi>Lybian</hi> Lions loſe their ſtrength, and the <hi>Baſilisk</hi> his ſenſes.</p>
+            <p>It is that, which hath been admired by the great Philoſo<g ref="char:EOLhyphen"/>phers; by <hi>Solomon</hi> himſelf, the wiſeſt of all men, who did ac<g ref="char:EOLhyphen"/>knowledge that it was more worth then precious pearls.</p>
+            <p>It is that, the leaſt part where<g ref="char:EOLhyphen"/>of ought to raviſh us even with admiration.</p>
+            <p>And it is that, which was
+<pb facs="tcp:57133:15"/>made in Paradiſe, which re<g ref="char:EOLhyphen"/>preſents the lively Image of the <hi>Creator;</hi> a Body framed by an admirable architecture; a Soul endowed with underſtanding, reaſon, wit, judgment, will, memory, imagination, and o<g ref="char:EOLhyphen"/>pinion; a Soul which in an in<g ref="char:EOLhyphen"/>ſtant flies from one Pole to the other, deſcends to the Center, and aſcends to the top of the world again. In a word, here you have it: It is <hi>Woman,</hi> the miracle of the world, and the marvel of marvels, which here is expoſed unto your view, accompanied with Preſidents of Vertue, and Statues of Ho<g ref="char:EOLhyphen"/>nour, and whatſoever elſe can be included in goodneſſe: which if you will deign to read it ſo, as to underſtand it well, and (which is beſt of all) to fol<g ref="char:EOLhyphen"/>low their examples, then will
+<pb facs="tcp:57133:15"/>your memories out-live Po<g ref="char:EOLhyphen"/>ſterity.</p>
+            <p>As for the foregoing three<g ref="char:EOLhyphen"/>fold <hi>Dedication</hi> of this <hi>Treatiſe,</hi> though it may happily not much concern the <hi>Reader,</hi> yet nevertheleſſe rather then that any ſhould wonder at it, I will give him a reaſon for it.</p>
+            <p>It is the firſt of all numbers; and in <hi>natural Philoſophy,</hi> there are three principles; three <hi>Theo<g ref="char:EOLhyphen"/>logical vertues,</hi> and three <hi>Graces.</hi>
+            </p>
+            <p>But that which chiefly mo<g ref="char:EOLhyphen"/>ved mee thereunto, was the pleaſing of my ſelf thereby; ſince that is the ſpring from whence every vertue begins to flow, the Sea unto which they run, and where all of them end their courſe. It's the onely thing which (next unto the fear of <hi>God</hi>) I chiefly aim at.</p>
+            <p>
+               <hi>Rhetorick, Logick, Philoſophy,
+<pb facs="tcp:57133:16"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:57133:16"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:57133:17"/>Muſick,</hi> all <hi>Arts</hi> and <hi>Sciences</hi> are referred unto this principle, to wit, that they might be profi<g ref="char:EOLhyphen"/>able and pleaſing unto us.</p>
+            <p>Doth not an <hi>Orator</hi> rejoyce when he ſeeth his <hi>Clyent</hi> delive<g ref="char:EOLhyphen"/>red by his <hi>Plea?</hi>
+            </p>
+            <p>Doth not the <hi>Logician</hi> laugh when as he perceives that his enemy is driven to a <hi>dilemma?</hi>
+            </p>
+            <p>Doth not the <hi>Philoſopher</hi> in<g ref="char:EOLhyphen"/>wardly ſmile when hee hath ſifted out the ſecrets of hidden cauſes?</p>
+            <p>Doth not the <hi>Muſitians</hi> heart leap for joy, when as he beholds that men are raviſhed with his <hi>melody.</hi>
+            </p>
+            <p>And therefore, ſince that all <hi>Vertues,</hi> all <hi>Arts,</hi> and all the <hi>actions</hi> of this life do tend (next unto the fear of God) unto our particular pleaſure, who can condemn me for having pleaſed my ſelf?</p>
+            <pb facs="tcp:57133:17"/>
+            <p>But as for the Treatiſe it ſelf: I am taught by <hi>Sapho,</hi> that no Note of <hi>Muſick;</hi> and by <hi>Craſſus,</hi> that no Vein of <hi>Rheto<g ref="char:EOLhyphen"/>rick</hi> contenteth all mens ears who liſten or apply their ſenſes unto the ſound of <hi>harmony;</hi> therefore if diſtaſteful <hi>Criticks</hi> ſhall miſ-interpret the inno<g ref="char:EOLhyphen"/>cency of my harmleſſe mean<g ref="char:EOLhyphen"/>ing, I ſhall but reply as did <hi>Ben-Johnſon.</hi>
+               <q>
+                  <l>Their praiſe or diſpraiſe is to me alike,</l>
+                  <l>Th' one doth not ſtroak me, nor the other ſtrike.</l>
+               </q>
+And. for thoſe prating <hi>Sico<g ref="char:EOLhyphen"/>phants,</hi> thoſe <hi>Zoyluſſes,</hi> and <hi>Mo<g ref="char:EOLhyphen"/>muſſes</hi> of all ages, thoſe <hi>detractors</hi> and <hi>evill ſpeakers,</hi> who eſteem it it far better to be wicked, then vertuous, and who by their vi<g ref="char:EOLhyphen"/>rulent tongues, abuſing this moſt worthy <hi>Sexe,</hi> have abuſed
+<pb facs="tcp:57133:18"/>their own <hi>mothers,</hi> and conſe<g ref="char:EOLhyphen"/>quently themſelves; let them talk and prate at their pleaſure they ſhall never be able (al<g ref="char:EOLhyphen"/>though they had the ſame au<g ref="char:EOLhyphen"/>thority which <hi>Plato</hi> heretofore had in <hi>Greece,</hi> or the eloquence of <hi>Cicero</hi>) to perſwade rational men, that thoſe excellent per<g ref="char:EOLhyphen"/>fections, and graces which are extant in the ſouls and bodies of <hi>vertuous Women,</hi> ought not to be regarded; thoſe <hi>Bodies,</hi> I ſay, on which if all the <hi>Angels</hi> ſhould have ſpent a thouſand years in altering or changing of its form, figure, or compo<g ref="char:EOLhyphen"/>ſition, nay the leaſt part there<g ref="char:EOLhyphen"/>of, they would be at laſt forced to confeſſe, that they are not able to diminiſh or adde there<g ref="char:EOLhyphen"/>unto: yet the blinde impiety of ſome, hath led them to that height of preſumption, as to
+<pb facs="tcp:57133:18"/>find fault with many parts of this curious <hi>Fabrick.</hi> But ſuch will at length finde, that though the <hi>Divine Juſtice</hi> hath <hi>leaden</hi> feet, it hath <hi>iron</hi> hands; though it's ſlow in comming, yet it ſtriketh thoſe home, who do not regard thoſe wonderful works of God which ought to tranſport us with an ineffable admiration.</p>
+            <p>As for thoſe well-diſpoſed <hi>ſculs,</hi> who are indued with a na<g ref="char:EOLhyphen"/>turall good diſpoſition, who wrong not themſelves by miſ<g ref="char:EOLhyphen"/>deeming of others; I wiſh unto them as to my ſelf, that they may build their everlaſting Ta<g ref="char:EOLhyphen"/>bernacles on that hill of <hi>Sion,</hi> whoſe Prince is verity, whoſe Laws are charity, and whoſe limits are eternity, <hi>&amp;c.</hi>
+            </p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:57133:19"/>
+            <pb facs="tcp:57133:19"/>
+            <head>THE CONTENTS OF THE CHAPTERS.</head>
+            <list>
+               <item>
+                  <hi>Of the Wiſdom and Learning of ſome Women.</hi> Pag. 13</item>
+               <item>
+                  <hi>Of Conſtant and Couragious Women.</hi> Pag. 48</item>
+               <item>
+                  <hi>Of Faire Women.</hi> Pag. 72</item>
+               <item>
+                  <hi>Of the Love of Women.</hi> Pag. 82</item>
+               <item>
+                  <hi>Of chaſte Women and Virgins.</hi> Pag. 115</item>
+               <item>
+                  <hi>Of Womens abilities to Go<g ref="char:EOLhyphen"/>vern.</hi> Pag. 133</item>
+               <item>
+                  <hi>Of Pious and Religious Wo<g ref="char:EOLhyphen"/>men.</hi> Pag. 141</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:57133:20"/>
+            <pb n="1" facs="tcp:57133:20"/>
+            <head>ELOGIUM HEROINUM: OR, <hi>The Praiſe of Worthy WOMEN.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">P</seg>Hydias</hi> (a moſt famous Carver) after hee had made <hi>Minerva's</hi> Shield, he en<g ref="char:EOLhyphen"/>graved his own Pourtrai<g ref="char:EOLhyphen"/>cture ſo lively and deeply in the ſame, as that it could never be taken out, with<g ref="char:EOLhyphen"/>out defacing of the whole work.</p>
+            <pb n="2" facs="tcp:57133:21"/>
+            <p>So GOD himſelf, who is an ineffable Power, and an infinite Virtue, an Under<g ref="char:EOLhyphen"/>ſtanding which can only be comprehended by it ſelfe, whoſe Throne is ſeated a<g ref="char:EOLhyphen"/>midſt the flaming fires, (a far more excellent Work<g ref="char:EOLhyphen"/>man then <hi>Phydias</hi>) after he had made the Univerſall World, and adorned the Heavens with Legions of Seraphims, Cherubims, Thrones, Principalities, Powers, Virtues, Domini<g ref="char:EOLhyphen"/>ons, Archangels and An<g ref="char:EOLhyphen"/>gels; with the beauty of the Sun, the glory of the Moon, and the ſplendor of the Stars, which are of an incomprehenſible bright<g ref="char:EOLhyphen"/>neſſe
+<pb n="3" facs="tcp:57133:21"/>and of a wonderfull greatneſſe; having more<g ref="char:EOLhyphen"/>over ordained unto them ſeverall miraculous moti<g ref="char:EOLhyphen"/>ons, and admirable effects on the four Elements, the Fire, the Aire, the Water, and the Earth; the which being beautified w<hi rend="sup">th</hi> Moun<g ref="char:EOLhyphen"/>taines, Plaines, Rivers, Woods, Rocks, Plants, Flowers, and all ſorts of Beaſts, and in the bowels thereof incloſed Mines of Gold, Silver, Iron, and of ſeverall other Metals and Minerals, with a number of admirable precious Stones; and having ſtored the Seas with all kind of Fiſhes, the Aire with an infinite num<g ref="char:EOLhyphen"/>ber
+<pb n="4" facs="tcp:57133:22"/>of Birds: He then cre<g ref="char:EOLhyphen"/>ated Man, of the duſt of the earth; and afterwards, in the terreſtrial Paradiſe, he made a Woman; not of Mans head, leſt ſhe ſhould preſume to over-top him, nor of his foot, leſt ſhe ſhould be viliſied by him, but from a rib neare unto his heart, that ſhe might be ever dear and entire to him, which ſhewes the alternate love that ought to be be<g ref="char:EOLhyphen"/>twixt them; And the Al<g ref="char:EOLhyphen"/>mighty (by his inſcrutable goodneſſe) imprinted in them both his own Image and ſimilitude, ſo lively, that no power whatſoever is able to deface it.</p>
+            <pb n="5" facs="tcp:57133:22"/>
+            <p>This image and ſimilitude of the Deity, is the Soul and the Underſtanding; the which he would never have infuſed into them, unleſſe he had firſt made their Bo<g ref="char:EOLhyphen"/>dies of a ſubſtance fit to re<g ref="char:EOLhyphen"/>ceive that impreſſion, and worthy of ſo great an or<g ref="char:EOLhyphen"/>nament as the Underſtand<g ref="char:EOLhyphen"/>ing is, by means whereof we unfold all things, and at<g ref="char:EOLhyphen"/>tain to the knowledge of the moſt difficult matters that the wit of man can produce. It hath a juriſdi<g ref="char:EOLhyphen"/>ction every where; and it keeps its eminencie as well in the higheſt powers, as in the leſſer and inferior parts of the Univerſe; to wit in
+<pb n="6" facs="tcp:57133:23"/>the Heavens, Starres and Planets, by their motion, which it foreſees and pre<g ref="char:EOLhyphen"/>vents; in the Empires, Mo<g ref="char:EOLhyphen"/>narchies and Kingdomes, it commands Occonomie; it eſtabliſheth the Lawes, and makes them to be obeyed: In the loweſt and inferior Regions, and amongſt the common people, it keeps ſo good diſcipline, that all things remaine conſtantly firme in their perfection. And it is ſeated as well in the woman, as in the man: for Nature hath given unto the one as well as the other a deſire of knowledge; with an upright ſtature, that they might both lift up their
+<pb n="7" facs="tcp:57133:23"/>eyes to the contemplation of Nature, and bring their minds raiſed and as it were inflamed with a divine love to ſuch beautiful and glori<g ref="char:EOLhyphen"/>ous things, in which the majeſty of the eternal God<g ref="char:EOLhyphen"/>head ſo apparently ſhines forth. And the Woman is capable of as high improve<g ref="char:EOLhyphen"/>ments as the Man is; ſhe hath the ſame prerogative of creation with man: For as he is endowed with a free, willing, immortal ſoul, ſo is ſhe alſo; and as Man was put into a ſtate of do<g ref="char:EOLhyphen"/>minion and happineſſe, ſo likewiſe was Woman.</p>
+            <p>The ſoul knows no dif<g ref="char:EOLhyphen"/>ference of ſex; the Woman
+<pb n="8" facs="tcp:57133:24"/>hath the ſame deſires and appetites as Man; ſhe is as well an heir unto the grace of life as he is; And finally, whatſoever is eſtated upon Man, the Woman will alſo challenge, for that there is no preferring of one ſexe before the other, but all are <hi>one in Chriſt Jeſus,</hi> as the Scripture clearely de<g ref="char:EOLhyphen"/>clares. Although the cra<g ref="char:EOLhyphen"/>zie and vain wits of theſe times ſpeake much to the diſparagement of the whole Sexe, imitating the Philo<g ref="char:EOLhyphen"/>ſopher <hi>Anaxagoras,</hi> who ſtrove to maintaine, that Snow was black: but as all men of underſtanding, who have eyes to ſee, find it to
+<pb n="9" facs="tcp:57133:24"/>be white, ſo it clearly ap<g ref="char:EOLhyphen"/>pears that he is an Impoſtor who endeavours to ſpeak ill of Women; ſince it is manifeſt, that the <hi>Vertues,</hi> the <hi>Diſciplines,</hi> the <hi>Muſes,</hi> the <hi>Deviſers</hi> and <hi>Patrons</hi> of all Arts, have been com<g ref="char:EOLhyphen"/>prehended under the Fe<g ref="char:EOLhyphen"/>minine ſexe, by the names of Virgins, and Women; that not only the Ethnicks and Moral men, but even Chriſtians and Divines, in all their books and writings which they leave to poſte<g ref="char:EOLhyphen"/>rity, ſtill continue them un<g ref="char:EOLhyphen"/>der the ſame Gender.</p>
+            <p>That <hi>Sophia,</hi> which ſig<g ref="char:EOLhyphen"/>nifies Wiſdome, is the mo<g ref="char:EOLhyphen"/>ther of the three Theolo<g ref="char:EOLhyphen"/>gical
+<pb n="10" facs="tcp:57133:25"/>Vertues, <hi>Faith, Hope, Charity;</hi> which are repre<g ref="char:EOLhyphen"/>ſented as Women.</p>
+            <p>That the Seven Liberal <hi>Arts</hi> are expreſt in Womens ſhapes.</p>
+            <p>That the <hi>Nine Muſes</hi> are the Daughters of <hi>Jupiter.</hi>
+            </p>
+            <p>That the <hi>Five Senſes</hi> are expreſt under the names of the five Daughters of <hi>A<g ref="char:EOLhyphen"/>pollo.</hi>
+            </p>
+            <p>That <hi>Wiſdome</hi> is called the Daughter of the High<g ref="char:EOLhyphen"/>eſt; as appears in the <hi>Book of Wiſdome.</hi>
+            </p>
+            <p>And that the four parts of the World, and almoſt all whatſoever is good, is deciphered by the names, and in the perſons of Wo<g ref="char:EOLhyphen"/>men.</p>
+            <pb n="11" facs="tcp:57133:25"/>
+            <p>All thoſe who are inclined to vertue, will find, when they ſhall have peruſed this ſmall Treatiſe (which re<g ref="char:EOLhyphen"/>lates ſome Women who have been rarely accom<g ref="char:EOLhyphen"/>pliſhed) that Women are capable of the higheſt im<g ref="char:EOLhyphen"/>provements, unto which Man may attaine: For if ſome of the Sex (as it ap<g ref="char:EOLhyphen"/>pears by the following He<g ref="char:EOLhyphen"/>roical actions) have been ſo, it argues that the Sexe is capable, and may ſtill be ſo.</p>
+            <p>But ere I proceed any further, I ſhal humbly crave from this moſt worthy Sex one onely boon: That it may not be offended at this
+<pb n="12" facs="tcp:57133:26"/>my young Eagles flight, to<g ref="char:EOLhyphen"/>wards ſuch a ſource of per<g ref="char:EOLhyphen"/>fect Rayes, during the ten<g ref="char:EOLhyphen"/>derneſs of my wings, which affords me that pen where<g ref="char:EOLhyphen"/>by I endeavour to trace the deſcription of their moſt perfect lineaments and di<g ref="char:EOLhyphen"/>menſions.</p>
+            <div type="part">
+               <pb n="13" facs="tcp:57133:26"/>
+               <head>Of the Wiſdome and Learn<g ref="char:EOLhyphen"/>ing of ſome Women.</head>
+               <p>WIſdome is the guide of all other vertues; it gives goodneſſe to good people, pard'neth the wick<g ref="char:EOLhyphen"/>ed, makes the poor rich, and the rich honorable; it's that wherin our ſoveraign good and the end of our life con<g ref="char:EOLhyphen"/>ſiſteth.</p>
+               <p>Learning, is the know<g ref="char:EOLhyphen"/>ledge and underſtanding of Arts and Sciences; without it Nature is blind.</p>
+               <p>Wiſdome and Learning have made theſe following women famous to all po<g ref="char:EOLhyphen"/>ſterity.</p>
+               <pb n="14" facs="tcp:57133:27"/>
+               <p>
+                  <hi>Nicaula</hi> Queen of <hi>Saba,</hi> did expoſe her ſelf to a long and tedious journey from the fartheſt part of <hi>Ethiopia</hi> unto <hi>Hieruſalem,</hi> there to diſpute with <hi>Solomon,</hi> the wiſeſt of all men; as it ap<g ref="char:EOLhyphen"/>peares by the Scriptures, which therefore give her an immortal praiſe.</p>
+               <p>
+                  <hi>Mirrhe</hi> Queen of the <hi>Ly<g ref="char:EOLhyphen"/>dians,</hi> was ſo little of body, as that ſhe ſeemed to be a Dwarf; but ſo far excelling in wiſdome, as that ſhe was called a Gyant: ſhe was a wiſe and prudent woman, when ſhe was married; and honeſt, being a widow.</p>
+               <p>
+                  <hi>Pythagoras</hi> (the light of his time, and the firſt that
+<pb n="15" facs="tcp:57133:27"/>was called a Philoſopher) was a Scholar unto his own Siſter <hi>Themiſtoclea,</hi> and he learn'd his Philoſophy from her: the greatneſſe of her wiſdome appears by a Let<g ref="char:EOLhyphen"/>ter which he ſent unto her from <hi>Rhodes,</hi> where he pub<g ref="char:EOLhyphen"/>likely read Philoſophy, ſhe being then in <hi>Samothracia.</hi> The ſaid Letter, tranſlated out of Greek, was as follow<g ref="char:EOLhyphen"/>eth:</p>
+               <p>Pythagoras <hi>your Brother and Diſciple,</hi> (<hi>to you</hi> Themi<g ref="char:EOLhyphen"/>ſtoclea <hi>my dear Siſter</hi>) <hi>wiſh<g ref="char:EOLhyphen"/>eth health and increaſe of wiſdome.</hi>
+               </p>
+               <p>
+                  <hi>I have read from the be<g ref="char:EOLhyphen"/>ginning to the very end, the Book which you have ſent
+<pb n="16" facs="tcp:57133:28"/>unto me, of Fortune and Miſ<g ref="char:EOLhyphen"/>fortune: By it I do really ſee, that you are not leſſe grave in writing, then gracious in teaching; the which doth not often befall us who are Men: for the Philoſopher</hi> Ariſtip<g ref="char:EOLhyphen"/>pus <hi>was harſh in ſpeaking, and profound in writing;</hi> Amenides <hi>was ſuccinct in writing, and eloquent in ſpeaking. But you (my deare ſiſter) have ſo much applied your ſelf to ſtudy &amp; to write, as that in Sentences you ſeem to have read all the Philoſo<g ref="char:EOLhyphen"/>phers; and by the antiquities which you expreſſe, it ſeems that you have ſeen all the time paſt; by which you doe make it appear, that being a woman
+<pb n="17" facs="tcp:57133:28"/>you are more then a woman, becauſe the nature of women is only to employ themſelves to the preſent, and to forget that which is paſt.</hi>
+               </p>
+               <p>
+                  <hi>I have been told that you do imploy your ſelf in writing the wars of our Country: I do earneſtly pray you, and by the immortal gods do conjure you to flatter no body.</hi>
+               </p>
+               <p>
+                  <hi>For as you cannot deny, (dear Siſter) but that I am the eldeſt of your three Bro<g ref="char:EOLhyphen"/>thers, ſo I cannot diſavow that among all your Diſciples I am the leaſt: And as being your Diſciple, I ought to obey you; ſo likewiſe being your eldeſt Brother, you ought to believe me.</hi>
+               </p>
+               <pb n="18" facs="tcp:57133:29"/>
+               <p>
+                  <hi>Therefore I do adviſe you (deare Siſter) to continue to do your utmoſt (as you have hither to done) to be under<g ref="char:EOLhyphen"/>ſtood, and wiſe in your words, diſcreet and grave in your life, and honeſt in your perſon; and above all, true in that which you write: For if the body of man be worth little without the ſoule, the mouth without truth is worth much leſſe.</hi>
+               </p>
+               <p>And this was the Letter which <hi>Pythagoras</hi> ſent to his ſiſter <hi>Themiſtoclea;</hi> by which his profound humility, and her great eloquence ap<g ref="char:EOLhyphen"/>peares.</p>
+               <p>
+                  <hi>Policrata</hi> daughter to the ſaid Philoſopher <hi>Pythagoras</hi>
+                  <pb n="19" facs="tcp:57133:29"/>was not only wiſe, fair and rich, but eſteemed and ho<g ref="char:EOLhyphen"/>noured for the integrity of her life, and more admired for her Eloquence then <hi>Py<g ref="char:EOLhyphen"/>thagoras</hi> himſelf.</p>
+               <p>
+                  <hi>Diotima</hi> did ſo excell in wiſdome, that <hi>Socrates</hi> (who of all men was called the wiſe, the juſt, the Prince of Philoſophers, and the Fa<g ref="char:EOLhyphen"/>ther of Philoſophie) bluſh<g ref="char:EOLhyphen"/>ed not to imitate, and call her his <hi>Tutreſſe</hi> and <hi>Inſtru<g ref="char:EOLhyphen"/>ctreſſe.</hi>
+               </p>
+               <p>
+                  <hi>Arreta</hi> had attained to that perfection of know<g ref="char:EOLhyphen"/>ledge in the Greek and La<g ref="char:EOLhyphen"/>tine tongues, as that the common report was, that the ſoul of <hi>Socrates</hi> was in<g ref="char:EOLhyphen"/>fuſed
+<pb n="20" facs="tcp:57133:30"/>into her; and when ſhe was heard to ſpeak, it ſeemed that ſhe had writ the doctrine of <hi>Socrates,</hi> ra<g ref="char:EOLhyphen"/>ther then learned it: ſhe her ſelf inſtructed her ſonne in all the Liberal Arts, by whoſe induſtry he became a famous Profeſſor; he was called <hi>Ariſtippus:</hi> ſhe alſo taught and inſtructed ma<g ref="char:EOLhyphen"/>ny, and wrote ſeveral Vo<g ref="char:EOLhyphen"/>lumes, ſome whereof were theſe following.
+<list>
+                     <item>
+                        <hi>The Praiſes of</hi> Socrates.</item>
+                     <item>
+                        <hi>The manner how to edu<g ref="char:EOLhyphen"/>cate Children.</hi>
+                     </item>
+                     <item>
+                        <hi>The Battails of</hi> Athens.</item>
+                     <item>
+                        <hi>The unhappines of Women.</hi>
+                     </item>
+                     <item>
+                        <hi>The Husbandry of the An<g ref="char:EOLhyphen"/>cients.</hi>
+                     </item>
+                     <pb n="21" facs="tcp:57133:30"/>
+                     <item>
+                        <hi>The Wonders of Mount</hi> O<g ref="char:EOLhyphen"/>lympia.</item>
+                     <item>
+                        <hi>The Vanities of Youth, and the Calamities of Age.</hi>
+                     </item>
+                  </list> She read publikely the Na<g ref="char:EOLhyphen"/>tural &amp; Moral Philoſophie, in the Academies &amp; Schools of <hi>Athens,</hi> five and twenty years: ſhe compoſed forty Books: ſhe had an hundred and ten Philoſophers who were her diſciples. She died being ſeventy ſeven years old; and the <hi>Athenians,</hi> for an immortal praiſe to all poſterity, cauſed theſe fol<g ref="char:EOLhyphen"/>lowing words to be engra<g ref="char:EOLhyphen"/>ven on her ſepulchre.</p>
+               <q>Here lies <hi>Arreta,</hi> the fa<g ref="char:EOLhyphen"/>mous Grecian, who was the light of all <hi>Greece:</hi>
+                  <pb n="22" facs="tcp:57133:31"/>She had <hi>Helen's</hi> Beauty, <hi>Thirma's</hi> Honeſty, <hi>A<g ref="char:EOLhyphen"/>riſtippus</hi> Pen, <hi>Socrates</hi> Soule, and <hi>Homer's</hi> Tongue.</q>
+               <p>
+                  <hi>Leontium,</hi> a Grecian Da<g ref="char:EOLhyphen"/>moſel, did ſo excell in wiſ<g ref="char:EOLhyphen"/>dome, and in Philoſophical contemplations, as that <hi>Ci<g ref="char:EOLhyphen"/>cero</hi> relates, in his book <hi>De natura Deorum,</hi> that ſhe durſt write a worthy Book a<g ref="char:EOLhyphen"/>gainſt that famous Philo<g ref="char:EOLhyphen"/>ſopher <hi>Theophraſtus.</hi>
+               </p>
+               <p>
+                  <hi>Alexander</hi> the Great re<g ref="char:EOLhyphen"/>fuſed the beautiful Daugh<g ref="char:EOLhyphen"/>ter of <hi>Darius,</hi> (with King<g ref="char:EOLhyphen"/>domes and infinite Trea<g ref="char:EOLhyphen"/>ſures to boot) and made choice of <hi>Barſina,</hi> only for her great wiſdom, although
+<pb n="23" facs="tcp:57133:31"/>ſhe was poor, and had no poſſeſſions.</p>
+               <p>
+                  <hi>Dominica,</hi> the wife of the Emperor <hi>Valenticus,</hi> whenas the <hi>Goths</hi> had threatned the utter ſubverſion of <hi>Conſtan<g ref="char:EOLhyphen"/>tinople,</hi> ſhe by her wiſdome and diſcretion ſo mediated with the Enemy, as that ſhe procured the ſafety both of the People and City.</p>
+               <p>
+                  <hi>Athenias</hi> the Daughter of a mean man, was for her wiſdom &amp; learning thought worthy by a Chriſtian Em<g ref="char:EOLhyphen"/>peror to be his wife.</p>
+               <p>
+                  <hi>Priſcilla</hi> inſtructed <hi>Apollo</hi> himſelfe, that eloquent man.</p>
+               <p>
+                  <hi>Nicoſtrata,</hi> wife to King <hi>Evander,</hi> was ſo learned,
+<pb n="24" facs="tcp:57133:32"/>that the <hi>Grecians</hi> reported, that if her Writings of the <hi>Trojan</hi> wars had not by en<g ref="char:EOLhyphen"/>vy been flung into the fire, the name of <hi>Homer</hi> (the Prince of Poets) would have been unknown. This famous Woman is by ſome called <hi>Carmentis,</hi> becauſe of the eloquence which was found in her Verſes; ſhe helpd to make up the num<g ref="char:EOLhyphen"/>ber of the Greek Alphabet, and added to the Roman Letters; her Propheſies were preſerved by the Ro<g ref="char:EOLhyphen"/>mans at the end of the <hi>Ca<g ref="char:EOLhyphen"/>pitol,</hi> with as much reſpect and care as they do the Sa<g ref="char:EOLhyphen"/>crament.</p>
+               <p>
+                  <hi>Hermodica</hi> wife to <hi>Midas</hi>
+                  <pb n="25" facs="tcp:57133:32"/>King of <hi>Pbrygia,</hi> was not only celebrated for her rare features and beauty, but for her great wiſdome.</p>
+               <p>The Divine <hi>Plato</hi> had a<g ref="char:EOLhyphen"/>mongſt his Diſciples theſe two famous women, to wit <hi>Laſchenea,</hi> and <hi>Axiothia:</hi> the one had ſo profound a Memory, and the other ſo extraordinary an Under<g ref="char:EOLhyphen"/>ſtanding, as that <hi>Plato</hi> be<g ref="char:EOLhyphen"/>ing in his Chaire, he often did ſay (when either of theſe two chanced to be ab<g ref="char:EOLhyphen"/>ſent) that he would not be<g ref="char:EOLhyphen"/>gin to read; and being by the Philoſophers his diſci<g ref="char:EOLhyphen"/>ples deſired thereunto, he anſwered, I will not read, becauſe <hi>Laſchenea</hi> the Un<g ref="char:EOLhyphen"/>derſtanding,
+<pb n="26" facs="tcp:57133:33"/>which ought to hear me, is not here; and for the abſence of <hi>Axiothia</hi> he ſaid, that the Memory which ought to preſerve him was not yet come. The wiſdome of theſe two wo<g ref="char:EOLhyphen"/>men is the more to be ad<g ref="char:EOLhyphen"/>mired, ſince <hi>Plato</hi> would not read but in their pre<g ref="char:EOLhyphen"/>ſence; for he did eſteem the memory of theſe two Wo<g ref="char:EOLhyphen"/>men alone more then the Philoſophie of all the Phi<g ref="char:EOLhyphen"/>loſophers beſides.</p>
+               <p>
+                  <hi>Cornelia,</hi> wife unto <hi>Scipio Africanus,</hi> and mother to the Noble family of the <hi>Graechi,</hi> was ſo excellent in knowledge, that ſhe was more famous and honored
+<pb n="27" facs="tcp:57133:33"/>by the Sciences which ſhe publikely read in <hi>Rome,</hi> then by the conqueſts which her Children made in <hi>Africk.</hi> She was generally praiſed by the moſt learned men, for her honeſty, wiſdome, and for her reading Philo<g ref="char:EOLhyphen"/>ſophie publikely in <hi>Rome.</hi>
+               </p>
+               <p>From her, as from a foun<g ref="char:EOLhyphen"/>tain, the eloquence of her children flowed. Therefore <hi>Quintilius</hi> thus ſaith of her: <hi>We are much bound to the mother</hi> Cornelia, <hi>for the elo<g ref="char:EOLhyphen"/>quence of the</hi> Gracchi, <hi>whoſe unparallel'd Learning in her exquiſite Epiſtles ſhe hath be<g ref="char:EOLhyphen"/>queathed to poſterity. Cicero</hi> (the Father of Latine elo<g ref="char:EOLhyphen"/>quence, whoſe skill in join<g ref="char:EOLhyphen"/>ing
+<pb n="28" facs="tcp:57133:34"/>Philoſophie with the Art of Rhetorick was ex<g ref="char:EOLhyphen"/>cellent) doth more highly exalt this famous <hi>Cornelia,</hi> whenas he ſaith in his Rhe<g ref="char:EOLhyphen"/>torick, That if the name of a Woman had not dimini<g ref="char:EOLhyphen"/>ſhed <hi>Cornelia,</hi> ſhe did de<g ref="char:EOLhyphen"/>ſerve to be the chiefeſt of all the Philoſophers, be<g ref="char:EOLhyphen"/>cauſe hee never ſaw ſuch grave Sentences proceed from any mortal creature, as were contained in her writings. A Statue was e<g ref="char:EOLhyphen"/>rected on her ſepulcher, on which theſe words were engraven:
+<q>Here lyeth the moſt learned <hi>Cornelia,</hi> mother of the <hi>G<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>acchi:</hi> ſhe was both
+<pb n="29" facs="tcp:57133:34"/>happy and fortunate in her Diſciples whom ſhe inſtructed, though un<g ref="char:EOLhyphen"/>happy in her Children.</q>
+               </p>
+               <p>
+                  <hi>Aſpaſia,</hi> a Miletian Dam<g ref="char:EOLhyphen"/>ſel, excelled in all Philoſo<g ref="char:EOLhyphen"/>phical contemplations; and ſo fluent a Rhetorician, as that <hi>Socrates</hi> himſelfe imi<g ref="char:EOLhyphen"/>tated her, in his <hi>Facultas Politica.</hi>
+               </p>
+               <p>
+                  <hi>Amalaſuntha,</hi> Queen of the <hi>Oſtrogothes,</hi> the daugh<g ref="char:EOLhyphen"/>ter of <hi>Theodoricus</hi> King of thoſe <hi>Oſtrogothes</hi> in <hi>Italy,</hi> was not only learned in the Greek and Latine tongues, but ſpake all the barbarous languages that were uſed in the Eaſtern Empires, ex<g ref="char:EOLhyphen"/>ceeding well.</p>
+               <pb n="30" facs="tcp:57133:35"/>
+               <p>
+                  <hi>Euſtochium,</hi> a Romane Matron, was excellently practiſed in the Greek and Latine Dialect, as alſo in the Hebrew character: ſhe was in her time called the New prodigie of the world: ſhe with Reaſon overcame St. <hi>Hiero me,</hi> and made him con<g ref="char:EOLhyphen"/>feſſe he was overcome by her, for that he could not anſwer the queſtions which ſhe had propounded.</p>
+               <p>
+                  <hi>Ameſia,</hi> a modeſt Roman Lady, being falſly accuſed of a great crime, and ready to incurre the Pretorial ſentence; ſhe with a manly, yet modeſt courage, ſtept up amongſt the People, and with a loud voice and a be<g ref="char:EOLhyphen"/>coming
+<pb n="31" facs="tcp:57133:35"/>geſture, and facun<g ref="char:EOLhyphen"/>dious ſuavity, ſhe pleaded her own cauſe, ſo eloquent<g ref="char:EOLhyphen"/>ly, ſo effectually, and ſo ſtrongly, as that by the publique ſuffrage ſhe was freed and acquited from all aſperſions whatſoever, and he who had accuſed her, was himſelfe moſt juſtly puniſhed.</p>
+               <p>
+                  <hi>Hypparchia,</hi> the ſiſter of <hi>Magocles,</hi> and wife to <hi>Crates Cynicus,</hi> with one Sophiſme did put <hi>Theodorus</hi> to ſilence.</p>
+               <p>
+                  <hi>Hortenſia,</hi> the daughter of <hi>Quintus Hortenſius,</hi> plea<g ref="char:EOLhyphen"/>ded her ſelfe before the <hi>Triumvirate</hi> (when a grie<g ref="char:EOLhyphen"/>vous Fine was impoſed on the <hi>Romans,</hi> and when none
+<pb n="32" facs="tcp:57133:36"/>of the Orators or Lawyers durſt) ſo boldly and elo<g ref="char:EOLhyphen"/>quently, that ſhe prevailed ſo far, as that the greateſt part of the Fine which was impoſed on them, was in<g ref="char:EOLhyphen"/>ſtantly remitted.</p>
+               <p>
+                  <hi>Soſipatra</hi> was a woman verſed in many kindes of Diſciplines; and ſo excelent in all her ſtudies, that ſhe was ſaid to have been edu<g ref="char:EOLhyphen"/>cated by the Gods them<g ref="char:EOLhyphen"/>ſelves.</p>
+               <p>
+                  <hi>Corinna Thebana</hi> had ſuch an excellent knowledge in Poeſie, that in ſeveral Con<g ref="char:EOLhyphen"/>tentions ſhe bore away the garland from <hi>Pindarus</hi> the Prince of the <hi>Lyrick poets.</hi>
+               </p>
+               <p>
+                  <hi>Sapho's</hi> Verſes excelled
+<pb n="33" facs="tcp:57133:36"/>
+                  <hi>Anacreon's,</hi> though he was one of the moſt famous Poets in the world.</p>
+               <p>
+                  <hi>Teleſilla</hi> was not onely wiſe, chaſte, fair, and coura<g ref="char:EOLhyphen"/>gious, but ſhe had attained to that perfection in poetry that ſhe amongſt all other women was held in admi<g ref="char:EOLhyphen"/>ration.</p>
+               <p>
+                  <hi>Cornificia,</hi> ſiſter to the great Poet <hi>Cornificius,</hi> was very learned in the Greek and Latine tongues; and ſo expert in making of Verſes, that ſhe <hi>ex tempore</hi> did excel thoſe which her Brother made at leaſure, though he was the greateſt Poet of his time in <hi>Rome.</hi>
+               </p>
+               <p>
+                  <hi>Phanarite,</hi> Mother of
+<pb n="34" facs="tcp:57133:37"/>
+                  <hi>Athenian Socrates,</hi> was the firſt that diſputed of Mora<g ref="char:EOLhyphen"/>lity, and who taught the myſtical phyloſophie of the Stars and Planets, and how it may be made familiar, and have correſpondence with our humane and ter<g ref="char:EOLhyphen"/>reſtrial actions.</p>
+               <p>
+                  <hi>Hyppatia,</hi> a Woman of <hi>Alexandria,</hi> did ſo excell in Learning, as that ſhe was frequented by many worthy Scholars whil'ſt ſhe kept a publike School: ſhe wrote ſeveral Volumes; ſhe calcu<g ref="char:EOLhyphen"/>lated her ſelf an <hi>Ephemerides</hi> for many years; ſhe alſo writ a large volume of <hi>Aſtronomy.</hi>
+               </p>
+               <p>
+                  <hi>L'Amia</hi> &amp; <hi>Aglius</hi> were not inferior in Muſick to <hi>Arion</hi> or <hi>Orpheus.</hi>
+               </p>
+               <pb n="35" facs="tcp:57133:37"/>
+               <p>
+                  <hi>Timarete,</hi> the Daughter of <hi>Micaon Irene, Aniſtarite, Lala Cizizena, Martia,</hi> and many more, have attained to as high a perfection in Painting, as <hi>Apelles, Zeucis,</hi> and <hi>Apollidorus</hi> themſelves ever did.</p>
+               <p>What men were ever known to ſurpaſs the <hi>Muſes</hi> or the <hi>Sybils</hi> in Learning?</p>
+               <p>The <hi>IX. Muſes</hi> were theſe following:</p>
+               <p>
+                  <hi>Clio, <g ref="char:V">Ʋ</g>terpe, Thalia, Mel<g ref="char:EOLhyphen"/>pomene, Terpſichore, Erato, Polyhimnia, Vrania, Calliope.</hi>
+               </p>
+               <p>The <hi>XII. Sybils</hi> were theſe,
+<list>
+                     <item>
+                        <hi>Sybilla Perſica,</hi> called <hi>Sam<g ref="char:EOLhyphen"/>berta.</hi>
+                     </item>
+                     <item>
+                        <hi>Sybilla Lybica.</hi>
+                     </item>
+                     <item>
+                        <hi>Sybilla Delphica.</hi>
+                     </item>
+                     <pb n="36" facs="tcp:57133:38"/>
+                     <item>
+                        <hi>Sybilla Cumaea,</hi> borne at <hi>Cimeria,</hi> at <hi>Campania</hi> in <hi>Italy.</hi>
+                     </item>
+                     <item>
+                        <hi>Sybilla Samia.</hi>
+                     </item>
+                     <item>
+                        <hi>Sybilla Erithraea,</hi> borne at <hi>Babylon.</hi>
+                     </item>
+                     <item>
+                        <hi>Sybilla Cumana:</hi> ſhe wrote Nine books, for three of which <hi>Tarquinius ſuperbus</hi> gave 300 pieces of gold, and cauſed them to be religiouſly kept in the Capitol at <hi>Rome.</hi>
+                     </item>
+                     <item>
+                        <hi>Sybilla Helleſpontiaca,</hi> borne at <hi>Marmiſea</hi> in the Terri<g ref="char:EOLhyphen"/>tory of <hi>Troy.</hi>
+                     </item>
+                     <item>
+                        <hi>Sybilla Albunea,</hi> ſirnamed <hi>Tiburtina,</hi> becauſe ſhe was borne at <hi>Tiber,</hi> 15 miles from <hi>Rome.</hi>
+                     </item>
+                     <item>
+                        <hi>Sybilla Phrygia.</hi>
+                     </item>
+                     <pb n="37" facs="tcp:57133:38"/>
+                     <item>
+                        <hi>Sybilla Epyrotiea.</hi>
+                     </item>
+                     <item>
+                        <hi>Sybilla Coliphonia Lampuſia:</hi> ſhe came out of <hi>Greece,</hi> from <hi>Coliphonia</hi> a City of <hi>Ionia.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>The Books which theſe <hi>Sybils</hi> wrote, contained manifeſt Propheſies of the Kingdome of CHRIST, his Name, his Birth, and Death; The changes of Kingdomes; Foretold In<g ref="char:EOLhyphen"/>undations, Earthquakes, and Warres; They alſo manifeſted that the whole World would be burnt; and wiſhed men to adore that God, while they lived here, who would puniſh them ſo ſeverely hereafter for their contempt.</p>
+               <pb n="38" facs="tcp:57133:39"/>
+               <p>Theſe Books were by the Arch-Traytor <hi>Silico</hi> burnt; yet nevertheleſs ſome of their Propheſies are yet ex<g ref="char:EOLhyphen"/>tant, having been extracted out of other writings.</p>
+               <p>But as both the Eccleſia<g ref="char:EOLhyphen"/>ſticall and Secular, Ancient, and Modern Hiſtories a<g ref="char:EOLhyphen"/>bound in examples, of di<g ref="char:EOLhyphen"/>vers excellent and famous Ladies; So likewiſe theſe latter times have not been barren in Learned women; who were not a jot inferior to thoſe of former Ages.</p>
+               <p>
+                  <hi>Conſtantia,</hi> wife of <hi>Alex<g ref="char:EOLhyphen"/>ander Sforza,</hi> was ſo labori<g ref="char:EOLhyphen"/>ous in the beſt Diſciples, that on the ſuddain, and without any premeditati<g ref="char:EOLhyphen"/>on,
+<pb n="39" facs="tcp:57133:39"/>ſhee was able to diſ<g ref="char:EOLhyphen"/>courſe upon any argument, either Theological or Phi<g ref="char:EOLhyphen"/>loſophical, and for her tem<g ref="char:EOLhyphen"/>poral vain in verſe, ſhee was much admired; in which ſhee was ſo elegant<g ref="char:EOLhyphen"/>ly ingenious, that ſhee at<g ref="char:EOLhyphen"/>tracted the ears of many judicious Schollers to bee her daily Auditors.</p>
+               <p>
+                  <hi>Olympia Fulvia Morata,</hi> a famous <hi>Italian</hi> woman, was the ornament and glory of our latter times; ſhee had an exquiſite knowledge in the Greeke and Latine tongues, and ſhee writ ma<g ref="char:EOLhyphen"/>ny learned and elaborated works.</p>
+               <p>
+                  <hi>Jane Gray,</hi> an incompa<g ref="char:EOLhyphen"/>rable
+<pb n="40" facs="tcp:57133:40"/>Princeſs, whom no Nation nor Age can paral<g ref="char:EOLhyphen"/>lel, was very learned in the Hebrew, Greek, and Latin tongues.</p>
+               <p>
+                  <hi>Chriſtian de Piſa,</hi> a Gentle<g ref="char:EOLhyphen"/>woman of <hi>Italy,</hi> was en<g ref="char:EOLhyphen"/>dowed with ſuch divine graces, and ſhee did ſo far excell in wiſdome, that her works have made many learned men aſhamed.</p>
+               <p>The Kingdoms of <hi>France, Spain,</hi> and <hi>Portugal,</hi> do a<g ref="char:EOLhyphen"/>bound with many exam<g ref="char:EOLhyphen"/>ples of famous Ladies and Gentlewomen, which have excelled moſt men of this Age in knowledge and hu<g ref="char:EOLhyphen"/>main Sciences.</p>
+               <p>
+                  <hi>Heliſian</hi> of <hi>Crennes,</hi> a
+<pb n="41" facs="tcp:57133:40"/>French Lady, did ſo excell in Learning, that ſhee was admired by the wiſeſt men, and hath bequeathed unto poſteritie ſeveral of her excellent works.</p>
+               <p>
+                  <hi>Duema Ligua,</hi> a Spaniſh Lady (one of the Maids of honour unto Lady <hi>Mary,</hi> ſiſter unto the King of <hi>Por<g ref="char:EOLhyphen"/>tugal</hi>) was wonderfully verſt in five ſundry Lan<g ref="char:EOLhyphen"/>guages, <hi>viz.</hi> the Hebrew, Greek, Latine, Chaldean, and Arabian.</p>
+               <p>
+                  <hi>Iſabella Roſera,</hi> a Spaniſh Lady, did ſo excell in Learning, that ſhee did not onely publickly read, but expounded the hard and difficult works of <hi>Leſcoſt,</hi>
+                  <pb n="42" facs="tcp:57133:41"/>and unto her Auditory, the Cardinals, and the wiſeſt men of <hi>Rome</hi> were Aſ<g ref="char:EOLhyphen"/>ſiſtants.</p>
+               <p>
+                  <hi>Dona Margarita de No<g ref="char:EOLhyphen"/>ronha,</hi> a Lady of <hi>Portingal,</hi> was exceeding well verſt in ſeverall Languages, ſhee writ with great eloquence many excellent Diſcourſes, and ſhee had attained to a great perfection in Paint<g ref="char:EOLhyphen"/>ing, and ſeverall other Arts.</p>
+               <p>Queen <hi>Elizabeth</hi> of late memory, whoſe wonderful knowledge, and Learning, was admired by all the Chriſtian Princes that flou<g ref="char:EOLhyphen"/>riſhed in her time; ſhee was ſo well verſt in the Hebrew,
+<pb n="43" facs="tcp:57133:41"/>Greek, Latin, Italian, Spa<g ref="char:EOLhyphen"/>niſh, and French languages, that ſhee needed no Inter<g ref="char:EOLhyphen"/>preter, but gave her ſelf an<g ref="char:EOLhyphen"/>ſwer to all ſuch Ambaſſa<g ref="char:EOLhyphen"/>dors in their own Lan<g ref="char:EOLhyphen"/>guage, of which thoſe learned Orations in the Latine tongue which ſhee delivered by her own mouth in the two famous Univerſities do bear a ſuf<g ref="char:EOLhyphen"/>ficient record in her be<g ref="char:EOLhyphen"/>half.</p>
+               <p>
+                  <hi>Margaret</hi> of <hi>Vallois,</hi> Queen of <hi>Navarre,</hi> was endowed with eminent knowledge and Heroical vertues.</p>
+               <p>The Princeſs <hi>Elizabeth</hi> (eldeſt daughter to the Queen of <hi>Bohemia</hi> who is
+<pb n="44" facs="tcp:57133:42"/>juſtly ſtiled the Queen of Hearts, and the beſt of Queens, whom all degrees honour, and all Nations reverence) is a <hi>Saba</hi> for her Wiſdome, an <hi>Harpalice</hi> for Magnanimity, an <hi>Amala<g ref="char:EOLhyphen"/>ſuntha</hi> for her Temperance, a <hi>Cleopatra</hi> for her Bounty, and a <hi>Zenobia</hi> for her learn<g ref="char:EOLhyphen"/>ing and skill in Languages.</p>
+               <p>
+                  <hi>Anna Maria Schurmans,</hi> living at <hi>
+                     <g ref="char:V">Ʋ</g>trech</hi> in <hi>Holland,</hi> is endowed with ſuch a wonderfull knowledge and learning, that ſhe is admi<g ref="char:EOLhyphen"/>red by all men.</p>
+               <p>There have been likewiſe many Ladies and Gentle<g ref="char:EOLhyphen"/>women of our Nation, whoſe learning and know<g ref="char:EOLhyphen"/>ledge
+<pb n="45" facs="tcp:57133:42"/>may wel be parallel'd with the before-named.</p>
+               <p>Let me therefore treſpaſs (Gentle and Courteous Reader) ſo much on thy patience, as that I may up<g ref="char:EOLhyphen"/>on ſo juſt, and good an oc<g ref="char:EOLhyphen"/>caſion, inſert in this place ſome of their names.</p>
+               <p>With what Praiſes and Statues ought we to digni<g ref="char:EOLhyphen"/>fie and celebrate the me<g ref="char:EOLhyphen"/>mory of theſe following excellent Ladies.</p>
+               <p>The Counteſs of <hi>Pem<g ref="char:EOLhyphen"/>brook,</hi> ſiſter to the unmatch<g ref="char:EOLhyphen"/>able Sir <hi>Philip Sidney.</hi>
+               </p>
+               <p>The four Daughters of Sir <hi>Anthonie Cook;</hi>
+                  <list>
+                     <item>The Lady <hi>Burleigh.</hi>
+                     </item>
+                     <item>The Lady <hi>Ruſſel.</hi>
+                     </item>
+                     <pb n="46" facs="tcp:57133:43"/>
+                     <item>The Lady <hi>Bacon.</hi>
+                     </item>
+                     <item>M<hi rend="sup">rs</hi> 
+                        <hi>Killegrew.</hi>
+                     </item>
+                  </list> And thoſe other Ladies which at preſent are en<g ref="char:EOLhyphen"/>dowed with learning and generous education, whoſe abilities, as they are a proof to the preſent times, ſo will they remain as examples to poſteritie. Wherefore if many women do not the like, it may bee inferred that it is not out of a defect of wit or judgment, but be<g ref="char:EOLhyphen"/>cauſe they will not apply their minds thereunto, or that they cannot by reaſon of other diverſions.</p>
+               <p>Let it therefore ſuffice that thoſe who have been called to ſo great a Functi<g ref="char:EOLhyphen"/>on
+<pb n="47" facs="tcp:57133:43"/>by ſo ſpeciall an inſtinct have eminently excell'd.</p>
+               <p>I ſhall not any longer in<g ref="char:EOLhyphen"/>ſiſt on the wiſdome and learning of this moſt wor<g ref="char:EOLhyphen"/>thy Sex, but proceed to their <hi>Conſtancie</hi> and <hi>Cou<g ref="char:EOLhyphen"/>rage.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="48" facs="tcp:57133:44"/>
+               <head>Of Conſtant and Couragious Women.</head>
+               <p>
+                  <hi>COnſtancie</hi> is the orna<g ref="char:EOLhyphen"/>ment, the end, and confirmation of all vertues.</p>
+               <p>
+                  <hi>Courage,</hi> contemneth all perils, deſpiſeth calamities, and conquers death.</p>
+               <p>Theſe following famous Women, being conſident of the immortality of their ſoules, encountred dangers, offered up their lives on all occaſions, and ſacrificed themſelves, as it were, on the altar of Glory: their life was unto them but an ap<g ref="char:EOLhyphen"/>prentiſhip to die well; and their Sepulcher was (as it
+<pb n="49" facs="tcp:57133:44"/>were) their Cradle, imita<g ref="char:EOLhyphen"/>ting the Pelican that re<g ref="char:EOLhyphen"/>vives again out of her own blood.</p>
+               <p>If I ſhould (<hi>Courteous Reader</hi>) relate unto you the conſtant reſolution of all the women Martyrs; (a<g ref="char:EOLhyphen"/>mongſt which there were thoſe, who in the midſt of the flames, and tortures, cryed out with a reſolute voice, <hi>Tyrant, you loſe your time, here wee are alwayes at our eaſe; where are thoſe pains, where are thoſe tor<g ref="char:EOLhyphen"/>ments, with the which you did threaten us? our Con<g ref="char:EOLhyphen"/>ſtancie will make you ſuffer more then wee do by your crueltie; make us complain,
+<pb n="50" facs="tcp:57133:45"/>make us yeeld, if you can; encourage your Sergeants, your Executioners, for they are faint-hearted, edge them to all cruel and bloody courſes againſt us,</hi> &amp;c.) Whole volumes would not bee able to containe their names; therefore I ſhall onely relate unto you ſome of them.</p>
+               <p>
+                  <hi>Felicula</hi> was by the com<g ref="char:EOLhyphen"/>mand of <hi>Flaccus Comes,</hi> ſhut up in a Jakes, and when by no perſwaſions nor threats, promiſes, or torments, ſhee could bee forced to re<g ref="char:EOLhyphen"/>nounce the Chriſtian faith, ſhee was there ſtifled to death.</p>
+               <p>
+                  <hi>Apollinia,</hi> a Virgin of
+<pb n="51" facs="tcp:57133:45"/>
+                  <hi>Alexandria,</hi> for ſpeaking boldly in the defence of her Faith, had her teeth plucked all out by the Tormentors, and after<g ref="char:EOLhyphen"/>wards threatning to burn her inſtantly, unleſs ſhee would renounce her Chri<g ref="char:EOLhyphen"/>ſtianity; ſhe ſeeming to pawſe a little, as if ſhee meant better to conſider of the matter, (when they leaſt ſuſpected) leapt ſud<g ref="char:EOLhyphen"/>denly into the fire, and was there conſumed to aſhes.</p>
+               <p>
+                  <hi>Julia Cathaginenſis,</hi> be<g ref="char:EOLhyphen"/>cauſe ſhe would not bow to <hi>Idols,</hi> and adore the falſe <hi>heathen gods,</hi> was nailed unto a Croſs, and ſo ended
+<pb n="52" facs="tcp:57133:46"/>her life, partly with the ſmoak which the Executi<g ref="char:EOLhyphen"/>oners made at the foot of the Gallows.</p>
+               <p>
+                  <hi>Flavia, Euphronia, Theo<g ref="char:EOLhyphen"/>dora, Sabina, Amonaria,</hi> and <hi>Dioniſa,</hi> all Roman Virgins, have been more ready to receive death for to main<g ref="char:EOLhyphen"/>tain the glory and honor of God, then the Tyrants could miniſter the tor<g ref="char:EOLhyphen"/>ments to them.</p>
+               <p>
+                  <hi>Clara</hi> a Widow of three<g ref="char:EOLhyphen"/>ſcore years of age, was in the year 1526. on the 9. of December burnt in <hi>Boke<g ref="char:EOLhyphen"/>mia,</hi> becauſe ſhe would not deny the faith of the Go<g ref="char:EOLhyphen"/>ſpel.</p>
+               <p>
+                  <hi>Martha Porzizia</hi> in the
+<pb n="53" facs="tcp:57133:46"/>next year after, ſuffered the pains of the fire with an in<g ref="char:EOLhyphen"/>vincible conſtancie. Beſides many others related in <hi>Fox</hi> his Hiſtory of Martyrs. <hi>O rare &amp; wonderful Patience, O ſufferance worthy of everlaſt<g ref="char:EOLhyphen"/>ing remembrance! O conſtan<g ref="char:EOLhyphen"/>cie, the like whereof cannot be elſewhere found! their Crowns are glorie, and their praiſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> are not to bee expreſſed by the pen or tongue of man!</hi>
+               </p>
+               <p>
+                  <hi>Let their names bee as ſacred to us on Earth, as their ſouls live eternally en<g ref="char:EOLhyphen"/>joying a heavenly bliſs!</hi>
+               </p>
+               <p>
+                  <hi>As for their Courage:</hi>
+               </p>
+               <p>
+                  <hi>Deborah,</hi> a Warlike wo<g ref="char:EOLhyphen"/>man, was a Propheteſs, and judged Iſrael, by whoſe
+<pb n="54" facs="tcp:57133:47"/>Counſel and Courage, they were not onely freed from the incurſions of their neighbour Nations, but many times returned from the field with rich ſpoyls, and glorious conqueſts.</p>
+               <p>
+                  <hi>Judith</hi> ſmote off <hi>Holipher<g ref="char:EOLhyphen"/>nes's</hi> head, and brought it her ſelf through the ene<g ref="char:EOLhyphen"/>mies Camp into her own City.</p>
+               <p>
+                  <hi>Jael,</hi> with an invincible Courage, took a nail of her Tent, and with a hammer ſtruck it through <hi>Siſera's</hi> head, who was Captain of al the Canaanites.</p>
+               <p>
+                  <hi>Zenobia,</hi> Queen of the <hi>Palmerians,</hi> diſcomfited the Emperour <hi>Aurelian,</hi> and all his hoſt.</p>
+               <pb n="55" facs="tcp:57133:47"/>
+               <p>
+                  <hi>Candaces</hi> Queen of <hi>Ethio<g ref="char:EOLhyphen"/>pia,</hi> during all her Wars, led her people in perſon to the field, whereby ſhee obtained ſo great a dignity and honor, that for many years after her deceaſe, the ſucceeding Queens of <hi>Ethi<g ref="char:EOLhyphen"/>opia</hi> were called <hi>Candaces.</hi>
+               </p>
+               <p>
+                  <hi>Tomyris,</hi> Queen of the <hi>Scythians,</hi> ſent this chal<g ref="char:EOLhyphen"/>lenge to <hi>Cyrus,</hi> that great Emperour of <hi>Perſia: Come, or I will come; Stay for mee, or I will ſtay for thee.</hi> This challenge could not well bee anſwered, but by an undanted Enemy, who with his ſword in his hand, had replied, <hi>Here I am:</hi> her blood was all on fire, and
+<pb n="56" facs="tcp:57133:48"/>it ſeems that the very words did diſpleaſe her more, then the blows them<g ref="char:EOLhyphen"/>ſelves, <hi>Come, or I will come; Stay, or I will ſtay. Cyrus</hi> being taken in the Wars by her, ſhe caus'd his head to be cut off, and in remembrance of his cruelty, it was caſt into a veſſell full of blood, whereon ſhee cauſed this inſcription to be ſixed, <hi>Now</hi> Cyrus <hi>drink thy fill of that with the which thou couldeſt never be ſatisfied.</hi>
+               </p>
+               <p>
+                  <hi>Artimeſia,</hi> Queen of <hi>Ca<g ref="char:EOLhyphen"/>ria,</hi> was admired through<g ref="char:EOLhyphen"/>out all <hi>Greece,</hi> for her man<g ref="char:EOLhyphen"/>ly Courage, and excellency of ſpirit: ſhe not onely in a Navall expedition over<g ref="char:EOLhyphen"/>came
+<pb n="57" facs="tcp:57133:48"/>came the invading <hi>Rhodi<g ref="char:EOLhyphen"/>ans,</hi> but purſued them even unto their own Coaſts, and took poſſeſſion of the I<g ref="char:EOLhyphen"/>land, amidſt whoſe ruines, ſhe cauſed her own glori<g ref="char:EOLhyphen"/>ous Statue to be erected.</p>
+               <p>
+                  <hi>Semyramis</hi> was a Queen renowned for her brave and magnanimous exploits and in all her attempts ſupereminent; with her invincible courage ſhe not onely conquered all <hi>Ethio<g ref="char:EOLhyphen"/>pia,</hi> but invaded <hi>India,</hi> being the firſt that ever durſt attempt it, and ſaving her there was none, but <hi>Alexander,</hi> who imitating her glorious footſteps, was the laſt. <hi>Beroſus</hi> affirms, <hi>that
+<pb n="58" facs="tcp:57133:49"/>no man was ever to bee com<g ref="char:EOLhyphen"/>pared with this Woman,</hi> ſuch great things have been written of her; ſhe was the fourth that reigned in <hi>Aſſy<g ref="char:EOLhyphen"/>ria;</hi> all her ſubjects in ad<g ref="char:EOLhyphen"/>miration of her heroick acts, wore the like garments as ſhe did, which habit hath been in uſe amongſt the <hi>Aſſyrians, Bactrians</hi> and <hi>Ba<g ref="char:EOLhyphen"/>bilonians,</hi> even to this day. <hi>Vitruvius</hi> relates, that one day as ſhe attired her ſelf in her royall Pallace, the one part of her hair being bound up, and the other half hanging looſe upon her ſhoulders, ſuddenly news was brought unto her that the Citizens of <hi>Babilon</hi>
+                  <pb n="59" facs="tcp:57133:49"/>were revolted, being in a high mutiny and uproar; ſhe alone went into the City, commanding all her followers to ſtay back, and thus by her ſole preſence &amp; perſwaſion ſhe reconciled that innumerable number of people unto her obedi<g ref="char:EOLhyphen"/>ence; and attracted the hearts of that barbarous rude Nation unto her ad<g ref="char:EOLhyphen"/>miration and love, even as the Adamant draws Iron; for the which her Statue was erected in the City, re<g ref="char:EOLhyphen"/>preſented half dreſt, and half undreſt, in memory of that noble and magnani<g ref="char:EOLhyphen"/>mous adventure of hers. She built the aforeſaid
+<pb n="60" facs="tcp:57133:50"/>mighty City of <hi>Babilon,</hi> and the ſtately walls which have been reckoned a<g ref="char:EOLhyphen"/>mongſt the ſeven wonders of the world, they were fity feet thick, two hundred feet high, and threeſcore miles in compaſs, adorned with many great Towers, and for the building of theſe walls three hundred thouſand men were for a long ſpace hired from di<g ref="char:EOLhyphen"/>vers Countries.</p>
+               <p>
+                  <hi>Plutarch,</hi> and others write, that ſhe cauſed theſe words to be engraven upon her Tomb, <hi>Quicunque Rex pe<g ref="char:EOLhyphen"/>cuniis indiget, aperto monu<g ref="char:EOLhyphen"/>mento, quod voluerit accipiat;</hi> that is, what King ſoever
+<pb n="61" facs="tcp:57133:50"/>hath need of coin, by open<g ref="char:EOLhyphen"/>ning of this Monument may take what he pleaſeth. King <hi>Darius</hi> by chance reading theſe pleaſing words, and thinking ſome Magazine of treaſure had been there incloſed, cauſed the Tomb-ſtone to bee re<g ref="char:EOLhyphen"/>moved, where he found upon the other ſide theſe words ingraven, <hi>Niſi Rex avarus eſſes, &amp; pecuniae inſa<g ref="char:EOLhyphen"/>tiabilis, mortuorum monu<g ref="char:EOLhyphen"/>menta non violaſſes;</hi> Haddeſt thou not been a covetous King, &amp; unſatiable of Coin, thou wouldeſt not have violated the grave of the dead.</p>
+               <p>Thus the excellent La<g ref="char:EOLhyphen"/>dy
+<pb n="62" facs="tcp:57133:51"/>in her death, taunted the gripple avarice of the living.</p>
+               <p>The <hi>Amazons,</hi> warlike women in <hi>Scythia,</hi> defended their own Country, and waged War againſt their neighbours: but that the one might not ſeem more happy then the other, they ſlew all the men of their Country, and when they had gotten peace by force of Arms, they uſed the ſo<g ref="char:EOLhyphen"/>ciety of men, leſt their whole Nation ſhould pe<g ref="char:EOLhyphen"/>riſh for want of procreati<g ref="char:EOLhyphen"/>on, and every female childs right breaſt (at ſeven years of age) was ſeared and burnt away, leſt it ſhould
+<pb n="63" facs="tcp:57133:51"/>them in ſhooting; and hence they took the names of <hi>Amazons,</hi> w<hi rend="sup">ch</hi> is as much as to ſay, <hi>
+                     <g ref="char:V">Ʋ</g>naemammae,</hi> Crea<g ref="char:EOLhyphen"/>tures with one breaſt.</p>
+               <p>They ſubdued the great<g ref="char:EOLhyphen"/>eſt part of <hi>Europe,</hi> and many Cities in <hi>Aſia;</hi> their Army was divided into two parts, the one part whereof was commanded by the Queen <hi>M' Artheſia,</hi> which main<g ref="char:EOLhyphen"/>tained the Empire of <hi>Aſia,</hi> and the other was com<g ref="char:EOLhyphen"/>manded by the Queen <hi>Lampedo,</hi> who governed at home.</p>
+               <p>Theſe famous warlike women, built <hi>Epheſus,</hi> with many other Cities in <hi>Aſia,</hi> and they erected a Temple
+<pb n="64" facs="tcp:57133:52"/>(in the Country called <hi>Ionia</hi>) to the honor of <hi>Diana,</hi> the like whereof was not then in all the world; it was two hundred and twenty years a making, there were in it a hundred and ſeven and twenty pil<g ref="char:EOLhyphen"/>lars of Marble, which were ſeventy feet high; the length of the whole Temple was four hund<g ref="char:EOLhyphen"/>red fifty five feet, and the breadth two hundred and twenty; no Temple in the world could be compared unto it in wealth.</p>
+               <p>But finally the perfidious <hi>Eroſtratus,</hi> who doing great feats in War, &amp; perceiving that he got no reward, nor
+<pb n="65" facs="tcp:57133:52"/>renown thereby; for to leave a continuall remem<g ref="char:EOLhyphen"/>brance of his infamous action, did conſume this famous Temple with fire.</p>
+               <p>Queen <hi>Tyrgatao Meotis,</hi> did in many battels oppoſe two potent Kings, ſhee righted her own injuries in perſon, met with them, braved them, and beat them in the field, and after many victorious de<g ref="char:EOLhyphen"/>feats vaſſalled their inſo<g ref="char:EOLhyphen"/>lent pride, and ſubjected them to her own heroicall mercie.</p>
+               <p>What praiſe, what ad<g ref="char:EOLhyphen"/>miration and honor may not this magnanimous Queen claim?</p>
+               <pb n="66" facs="tcp:57133:53"/>
+               <p>
+                  <hi>Valaſca</hi> Queen of the <hi>Bo<g ref="char:EOLhyphen"/>hemians,</hi> having inſtructed all the women of her King<g ref="char:EOLhyphen"/>dome in <hi>military</hi> exerciſes, leavied an Armie of her own ſex, with the which ſhe encountred all the men of her Kingdome, and overthrew them, by which means, the women attained unto the Soveraign princi<g ref="char:EOLhyphen"/>pality, and for many years together managed all pub<g ref="char:EOLhyphen"/>lick affairs, as well for of<g ref="char:EOLhyphen"/>fence, as defence, without the help or counſell of men.</p>
+               <p>
+                  <hi>Hasbites</hi> was a famous warlike <hi>Virago,</hi> and led Armies into the field.</p>
+               <p>When as the <hi>Lacedemo<g ref="char:EOLhyphen"/>nians</hi>
+                  <pb n="67" facs="tcp:57133:53"/>had beſieged the city of <hi>Meſſena</hi> in <hi>Sicily,</hi> and being reſolved to ſtorm it, the women ſuddenly iſſued out againſt their enemies, and put them to flight.</p>
+               <p>
+                  <hi>Lesbia,</hi> a Virgin, being beſieged by the <hi>Turks,</hi> ha<g ref="char:EOLhyphen"/>zarded her ſelf to diſcover their Works and Mines: by whoſe only valour and encouragement in preſent<g ref="char:EOLhyphen"/>ing herſelf upon the walls to the violence of their ar<g ref="char:EOLhyphen"/>rows and engines, the City was preſerved.</p>
+               <p>The women of <hi>Bellovaca,</hi> being beſieged by <hi>Charles</hi> the great Duke of <hi>Burgundy</hi> moſt reſolutely defended the walls, tumbling the
+<pb n="68" facs="tcp:57133:54"/>Aſſailants down headlong from their ſcaling-ladders; to the everlaſting honour of their Sexe, and reproach of the Enemy.</p>
+               <p>
+                  <hi>Elphleda,</hi> ſiſter to King <hi>Edward</hi> (before the Con<g ref="char:EOLhyphen"/>queſt) ſirnamed the fourth, was preſent in the Battaile which was fought againſt the <hi>Danes</hi> at <hi>Toten-Hall</hi> in <hi>Stafford-ſhire,</hi> and at the mighty overthrow at <hi>Wood<g ref="char:EOLhyphen"/>densfield,</hi> where two Kings were ſlain, two Earls; and many thouſands of the <hi>Danes.</hi> She not only tamed the <hi>Welch-men,</hi> but chaſed the <hi>Danes.</hi>
+               </p>
+               <p>This Epitaph hath been left as a memorial over her Tombe.</p>
+               <pb n="69" facs="tcp:57133:54"/>
+               <lg>
+                  <l>
+                     <hi>Oh</hi> Elphlede! <hi>mighty both in ſtrength and minde;</hi>
+                  </l>
+                  <l>
+                     <hi>The dread of men, and Victreſs of thy kind.</hi>
+                  </l>
+                  <l>
+                     <hi>Nature hath done as much as nature can,</hi>
+                  </l>
+                  <l>
+                     <hi>To make thee maid; but good<g ref="char:EOLhyphen"/>neſſe makes thee man.</hi>
+                  </l>
+                  <l>
+                     <hi>Yet pity thou ſhould'ſt change ought ſave thy name,</hi>
+                  </l>
+                  <l>
+                     <hi>Thou art ſo good a woman; and thy fame</hi>
+                  </l>
+                  <l>
+                     <hi>In that growes greater, and more worthy, when</hi>
+                  </l>
+                  <l>
+                     <hi>Thy feminine valour much outſhineth men:</hi>
+                  </l>
+                  <l>
+                     <hi>Great</hi> Caeſar's <hi>acts thy noble deeds excell.</hi>
+                  </l>
+                  <l>
+                     <hi>So ſleep in peace; Virago-maid farewell.</hi>
+                  </l>
+               </lg>
+               <pb n="70" facs="tcp:57133:55"/>
+               <p>Queen <hi>Margaret, Henry</hi> the ſixth's wife; whoſe cou<g ref="char:EOLhyphen"/>rage, reſolution and magna<g ref="char:EOLhyphen"/>nimity deſerves an immor<g ref="char:EOLhyphen"/>tal praiſe: ſhe was perſo<g ref="char:EOLhyphen"/>nally in all thoſe Battails which were fought againſt the Houſe of <hi>York;</hi> nor are the Engliſh Chronicles ſpa<g ref="char:EOLhyphen"/>ring in commending her more then womaniſh ſpirit, to everlaſting memory.</p>
+               <p>In times paſt, the <hi>Romans</hi> honoured (even for private and common ſervices) their ordinary Souldiers, ſome with <hi>Cirick Crowns</hi> or <hi>Gar<g ref="char:EOLhyphen"/>lands,</hi> others with <hi>Lances headed with Gold, Golden Chaines, Statues of Ivory;</hi> others, with <hi>Triumphs,
+<pb n="71" facs="tcp:57133:55"/>Praiſes, Acclamations, Gra<g ref="char:EOLhyphen"/>tulations,</hi> &amp;c. If theſe things were allowed to men only, with what Elogies, Encono<g ref="char:EOLhyphen"/>miums, Crowns, Garlands, Statues, Sepulchers, and Monuments ſhall we then celebrate the memory (if it were poſſible) beyond all poſterity, of theſe ever to be admired <hi>Conſtant and Cou<g ref="char:EOLhyphen"/>ragious</hi> Women!</p>
+            </div>
+            <div type="part">
+               <pb n="72" facs="tcp:57133:56"/>
+               <head>Of Faire Women.</head>
+               <p>
+                  <hi>BEauty</hi> is the Image of the Creator, and the Rhetorick of Heaven: it delights the eye, contents the mind; and the more it is ſeen, the more it is admired.</p>
+               <p>That of <hi>Venus</hi> was ſo ex<g ref="char:EOLhyphen"/>traordinary, as that <hi>Apelles,</hi> who was the beſt of Paint<g ref="char:EOLhyphen"/>ers, could not with all his art (though he had ſet be<g ref="char:EOLhyphen"/>fore him a hundred choice and ſelected <hi>Beauties,</hi> all naked, and had taken from one a <hi>charming Eye,</hi> another an <hi>amorous Lip,</hi> from a third a <hi>pleaſing ſmile</hi> and a <hi>modeſt bluſh,</hi> from a fourth a <hi>grace<g ref="char:EOLhyphen"/>ful Noſe,</hi> a fifth a <hi>fair Hand,</hi> and from each of them that
+<pb n="73" facs="tcp:57133:56"/>ſpecial Lineament in which ſhe moſt excelled) repreſent ſuch an <hi>Angelical Face,</hi> ſuch <hi>charming Eyes,</hi> ſuch <hi>amorous coral Lips,</hi> ſuch <hi>ſnaring Treſſes,</hi> ſuch <hi>captivating Hands,</hi> or ſuch a <hi>pure Ala<g ref="char:EOLhyphen"/>baſter Skin</hi> as <hi>Venus</hi> had. How ſhould I then by my rude ſtile dare to expreſſe that, which <hi>Apelles</hi> could not repreſent with ſeverall Colours? I know I am un<g ref="char:EOLhyphen"/>able to expreſs the leaſt part of that, which repreſents the wonderfull work of God: and though I were able, yet would I make a ſcruple to trace out <hi>miracles</hi> with <hi>ink.</hi> Nor ſhall I enlarge on the great influences,
+<pb n="74" facs="tcp:57133:57"/>which the <hi>famous Beauties</hi> have had in former Ages over men.</p>
+               <p>Neither dare I preſume to name thoſe of theſe later times, who are admired and adored by all men (ſave ſuch as are wilfully blind) leſt I ſhould by the alleadg<g ref="char:EOLhyphen"/>ing of their power run the ſame hazard as <hi>Antiochus</hi> did, who was ſeized with a <hi>Feaver,</hi> meerly by the re<g ref="char:EOLhyphen"/>hearſal of <hi>Stratonica's</hi> extra<g ref="char:EOLhyphen"/>ordinary <hi>Beauty;</hi> ſuch di<g ref="char:EOLhyphen"/>vine gemmes did ſparkle about her. Or as <hi>Tyraſius</hi> King of <hi>Thebes,</hi> who was ſtruck blinde by his onely beholding of <hi>Diana,</hi> as ſhe was bathing herſelf.</p>
+               <pb n="75" facs="tcp:57133:57"/>
+               <p>For my part, I am alrea<g ref="char:EOLhyphen"/>dy not onely amazed, but even tranſported (if not loſt with wonder) by the bare rehearſall of the fore<g ref="char:EOLhyphen"/>mentioned famous wo<g ref="char:EOLhyphen"/>mens <hi>heroick acts.</hi>
+               </p>
+               <p>And though I could aver how that their <hi>Beauty</hi> doth raviſh beholders, that their <hi>complexion</hi> is clearer then the <hi>Skie;</hi> their <hi>Faces borders</hi> of <hi>Lillies,</hi> interwoven with <hi>Roſes;</hi> how that the luſtre of their <hi>Eyes</hi> ſurpaſſes the <hi>Diamond,</hi> their <hi>Lips</hi> the <hi>Coral</hi> in redneſs; that their <hi>Treſſes</hi> are like the coloured <hi>Hyacinths</hi> of <hi>Arcadia;</hi> their <hi>Necks</hi> as white as <hi>Snow,</hi> their <hi>Breaſt</hi> as pure as <hi>Alla<g ref="char:EOLhyphen"/>baſter,</hi>
+                  <pb n="76" facs="tcp:57133:58"/>their <hi>Arms</hi> as ruddy as the <hi>Roſe,</hi> and that all their parts are moſt rare, their whole bodies beautified with more then Terrene perfections; how that they have more ſtrength then the moiſtened <hi>Torpedoes,</hi> which do not onely charm the hand, but the heart al<g ref="char:EOLhyphen"/>ſo; and that not onely the <hi>Lybian Lion</hi> loſes his ſtrength in beholding their <hi>beauty,</hi> but the <hi>Baſilisk</hi> his ſenſes; and though I ſhould adde thereunto, that they repreſent the lively <hi>Image</hi> of the <hi>Creator,</hi> that they are the miracle of the world, and the marvel of marvels; after all this, what ſay I
+<pb n="77" facs="tcp:57133:58"/>more then each man knows and is by all men con<g ref="char:EOLhyphen"/>feſt?</p>
+               <p>Were not the very feet of <hi>Thetis</hi> as bright as <hi>ſilver,</hi> and the ankles of <hi>Hebe</hi> clearer then <hi>Chryſtal?</hi>
+               </p>
+               <p>Are they not admired and beloved even of un<g ref="char:EOLhyphen"/>reaſonable creatures? was not a Virgin in <hi>Leucadia,</hi> ſo beloved of a <hi>Peacock,</hi> as that the enamoured Bird never left her whilſt ſhe lived, and accompanied her in death; for ſeeing the young <hi>Damſell</hi> dead, ſhe never would receive food from any hand, but ſo pined a<g ref="char:EOLhyphen"/>way and dyed alſo.</p>
+               <p>Doth not <hi>Saxo Gramma<g ref="char:EOLhyphen"/>ticus</hi>
+                  <pb n="78" facs="tcp:57133:59"/>in the tenth book of his <hi>Daniſh Hiſtory</hi> report, how that certain young maids of a Village in <hi>Swit<g ref="char:EOLhyphen"/>zerland,</hi> playing and ſport<g ref="char:EOLhyphen"/>ing together in the field upon a holy-day, ſuddenly an huge <hi>Hee-bear</hi> ruſhed out of the <hi>Forreſt,</hi> and ſhatched up the faireſt a<g ref="char:EOLhyphen"/>mongſt them, and hurried her away to his <hi>Den,</hi> gently and without any harm; where he long gazed on her face, as if with a kind of admiration he grew ſo enamoured with her on the ſudden, that inſtead of a <hi>Murtherer,</hi> he became a <hi>Lo<g ref="char:EOLhyphen"/>ver,</hi> imparting unto her all the prey he got abroad, &amp;c.
+<pb n="79" facs="tcp:57133:59"/>Did not an <hi>Fagle</hi> (which was taken in a Neaſt, and carefully brought up by a Virgn in the City of <hi>Seſto</hi>) being come to full growth take her ſlight every day abroad, and all the <hi>Fowle</hi> ſhe could catch, brought it home and laid it in the lap of her Miſtres: at length this Virgin dying, and her bo<g ref="char:EOLhyphen"/>dy being born unto the Funeral fire, the Eagle ſtill attending, it was no ſooner expoſed unto the flames, but the Bird likewiſe by volun<g ref="char:EOLhyphen"/>tary flight, caſt her ſelf a<g ref="char:EOLhyphen"/>midſt the <hi>kindled pyle,</hi> and gave her ſelf as a moſt grateful ſacrifice unto her Miſtreſs Hearſe.</p>
+               <pb n="80" facs="tcp:57133:60"/>
+               <p>Was not the Queen <hi>Sua<g ref="char:EOLhyphen"/>bilda</hi> ſo excelling rare in all the Lineaments of her bo<g ref="char:EOLhyphen"/>dy, as that being doomed unto a wretched and mi<g ref="char:EOLhyphen"/>ſerable death, and bound with thongs of Leather, to be trod upon by the hoofs of wild horſes, her beauty ſtruck ſuch an impreſſion even in thoſe unreaſonable creatures, that they could not bee forced with their rude feet to leave the leaſt character of violence upon limbs ſo fair and exquiſitely ſhaped.</p>
+               <p>Therefore I ſhall not in<g ref="char:EOLhyphen"/>ſiſt any longer on the ſpe<g ref="char:EOLhyphen"/>cifying of womens Beauty, ſince as it appears they
+<pb n="81" facs="tcp:57133:60"/>are beloved and admired even by unreaſonable crea<g ref="char:EOLhyphen"/>tures: but proceed to their goodneſs.</p>
+            </div>
+            <div type="part">
+               <pb n="82" facs="tcp:57133:61"/>
+               <head>The love of Women towards their Husbands; of Mothers towards their Children; of dutiful Daughters towards their Parents; and of Si<g ref="char:EOLhyphen"/>ſters that have been kinde to their Brothers.</head>
+               <p>THe women of <hi>Wynedi</hi> in <hi>Germany,</hi> beare ſuch an expreſſible love towards their husbands, that they repair to their ſepulchers, and holding their lives te<g ref="char:EOLhyphen"/>dious without them, they offer up their bodies wil<g ref="char:EOLhyphen"/>ingly either to the ſword or to the fire. The like is ob<g ref="char:EOLhyphen"/>ſerved by the Women a<g ref="char:EOLhyphen"/>mongſt the <hi>Geats,</hi> the <hi>Ca<g ref="char:EOLhyphen"/>theoreans,</hi>
+                  <pb n="83" facs="tcp:57133:61"/>the <hi>Herulians</hi> (a people which inhabite be<g ref="char:EOLhyphen"/>yond the River of <hi>Danube</hi>) by thoſe of <hi>Thrace</hi> and the <hi>Indies.</hi>
+               </p>
+               <p>The wife of <hi>Pandorus,</hi> begged of her Husband, that before hee hazarded himſelf to the extremity of of danger, he would firſt take away her feares, by taking away her life with his ſword: which he deny<g ref="char:EOLhyphen"/>ed, and ſo gave the ſignal of battel, in which he was vanquiſhed and ſlain, his Wife ſurpriſed and com<g ref="char:EOLhyphen"/>mitted into the hands of one of the chief Captains, who pitying her teares and ſorrow (to which her <hi>beauty</hi>
+                  <pb n="84" facs="tcp:57133:62"/>gave no common luſtre) made ſuit unto her to make her his wife: ſhe put him off with all poſſible delays; but after perceiving, that what he could not compaſs with her good will, he would by force, ſhe there<g ref="char:EOLhyphen"/>fore craved ſome few hours of deliberation, which he granted; and being retired, ſhe firſt writ in a Note theſe words: <hi>Let none report that the Wife of</hi> Pandorus <hi>har<g ref="char:EOLhyphen"/>boured ſo little love, as to outlive him.</hi> Which Note leaving upon the Table, ſhe took a ſword hanging in the chamber, with which ſhe ſlew herſelf.</p>
+               <p>
+                  <hi>Alceſte,</hi> wife to <hi>Admetus</hi>
+                  <pb n="85" facs="tcp:57133:62"/>King of <hi>Greece,</hi> gave herſelf up to a moſt willing death, for to redeem the health and life of her husband.</p>
+               <p>
+                  <hi>Cleopatra</hi> Queen of <hi>Egypt</hi> ſuffered her breaſts to be poyſoned with Aſps, that ſhe might die for the love of her <hi>Antony.</hi> Admirable was the love of her two Handmaids, <hi>Neaera,</hi> and <hi>Charmione,</hi> who would by no perſwaſion ſurvive their Queen, but out of an un<g ref="char:EOLhyphen"/>matchable zeale to their Miſtreſſe, both fell down by her, and breathed their laſt.</p>
+               <p>
+                  <hi>Phila,</hi> having heard that her Husband K. <hi>Demetrius</hi> had been defeated in a bat<g ref="char:EOLhyphen"/>tail,
+<pb n="86" facs="tcp:57133:63"/>drank poiſon, and ſo dyed.</p>
+               <p>
+                  <hi>Camma</hi> was not onely famous throughout all <hi>Ga<g ref="char:EOLhyphen"/>lacia</hi> for her beauty, but for her vertue; ſhe did ſo love her husband, and was ſo conſtant unto him, that ſhe never went forth, nor would ſuffer any man to ſee her, whilſt ſhe was mar<g ref="char:EOLhyphen"/>ried.</p>
+               <p>
+                  <hi>Evadne</hi> at the ſolemni<g ref="char:EOLhyphen"/>zation of her husbands Fu<g ref="char:EOLhyphen"/>nerall, burnt her ſelf to mingle her aſhes with his.</p>
+               <p>The Queen <hi>Artimeſia</hi> out of the great love ſhe bore to her husband, and inflamed with unſpeakable deſire
+<pb n="87" facs="tcp:57133:63"/>and affection towards him, took his bones and aſhes, and drank the powder thereof, thinking no <hi>Se<g ref="char:EOLhyphen"/>pulchre</hi> ſo worthy as her own body; and for a per<g ref="char:EOLhyphen"/>petuall remembrance of her husband <hi>Mauſolus,</hi> King of <hi>Caria,</hi> ſhe cauſed a ſumptuous <hi>Tomb</hi> of mar<g ref="char:EOLhyphen"/>vellous workmanſhip to be made of four hundred and eleven foot in circuit, and forty foot high, invironed about with thirty ſix Pil<g ref="char:EOLhyphen"/>lars, wonderfully well car<g ref="char:EOLhyphen"/>ved, it was held to be one of the ſeven wonders of the world.</p>
+               <p>
+                  <hi>Cecilia Barbadica Veneta,</hi> lived with ſo great a faith<g ref="char:EOLhyphen"/>fulneſs
+<pb n="86" facs="tcp:57133:64"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="87" facs="tcp:57133:64"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="88" facs="tcp:57133:65"/>towards her hus<g ref="char:EOLhyphen"/>band <hi>Philippus Vedraminus,</hi> that ſhee had never any other object of all her paſſi<g ref="char:EOLhyphen"/>ons then her husband, his happineſs made her joy<g ref="char:EOLhyphen"/>full, his fear her grief; and on her face, and in her acti<g ref="char:EOLhyphen"/>ons, appeared the good or bad fortune of her hus<g ref="char:EOLhyphen"/>band; after his death, ſhe could not by any counſell, comfort, or perſwaſion, bee won to taſte the leaſt food whatſoever, or give anſwer to any word that was ſpo<g ref="char:EOLhyphen"/>ken to her, in which ſilence and conſumption ſhe (after ſome few daies of unſpeak<g ref="char:EOLhyphen"/>able ſorrow) breathed out her laſt.</p>
+               <pb n="89" facs="tcp:57133:65"/>
+               <p>The Princeſs <hi>Panthea</hi> having been acquainted that her husband <hi>Abradra<g ref="char:EOLhyphen"/>tus</hi> had been kill'd in <hi>Cyrus</hi> Camp, ſhe reſolved to go her ſelf and finde him out, and having found him dead amongſt a number of dead men, ſhe waſhed her whole body and face with his blood, and ſtriking her heart with a dagger ſhe died embracing her husband.</p>
+               <p>The City of <hi>Wynber<g ref="char:EOLhyphen"/>gen,</hi> a free place in <hi>Germany,</hi> being beſieg'd by <hi>Caeſar,</hi> who grew ſo implacable, that he reſolved to take bloo<g ref="char:EOLhyphen"/>dy revenge on the men for having defended their lives and honours ſo valiantly,
+<pb n="90" facs="tcp:57133:66"/>and thereby almoſt over<g ref="char:EOLhyphen"/>thrown the greateſt part of his Army: The Articles being drawn for the ſur<g ref="char:EOLhyphen"/>render of the Town, it was onely lawfull for the <hi>Ma<g ref="char:EOLhyphen"/>trons,</hi> and <hi>Virgins</hi> (by the Emperors <hi>Edicts</hi>) to carry out as much as each one could carry of what they beſt liked. The <hi>Wives</hi> out of an unexpreſſible love carried on their backs their <hi>Husbands,</hi> and the <hi>Virgins</hi> and <hi>Damſels,</hi> their <hi>Fathers</hi> or <hi>Brothers.</hi> This ſtrook ſuch an impreſſion in the heart of <hi>Caeſar,</hi> that of a mortall enemy, he became their friend.</p>
+               <p>
+                  <hi>Artia Mater</hi> ſeeing her
+<pb n="91" facs="tcp:57133:66"/>husband <hi>Poetus</hi> condemned and willing that hee ſhould expire by his own hand, ra<g ref="char:EOLhyphen"/>ther then by that of the common <hi>Hang-man,</hi> per<g ref="char:EOLhyphen"/>ſwaded him to a <hi>Roman</hi> re<g ref="char:EOLhyphen"/>ſolution but finding him ſomewhat; daunted with the preſent ſight of death, ſhe ſnatcht up a ſword with which ſhe ſtab'd her her ſelf, and plucking it from her boſome preſented it unto her husband, onely with theſe few and laſt words, <hi>Paete non dolet, Poetus!</hi> It hath done me no harm! and ſo fell down and dyed. <hi>Martial</hi> in the firſt book of his <hi>Epigrams</hi> ſaith thus, in ſpeaking of this couragious Woman,
+<pb n="92" facs="tcp:57133:67"/>
+                  <q>
+                     <l>Caſta ſuo gladium cum trade<g ref="char:EOLhyphen"/>ret <hi>Aria Paeto,</hi>
+                     </l>
+                     <l>Quem dedit viſceribus tra<g ref="char:EOLhyphen"/>xerat illa ſuis,</l>
+                     <l>Si qua fides, vulnus quod feci non dolet inquit,</l>
+                     <l>Sed quodtu facies, hoc mihi <hi>Paete,</hi> dolet.</l>
+                     <l>When <hi>Aria</hi> did to <hi>Paetus</hi> give that ſteel</l>
+                     <l>Which ſhee before from her own breaſt had tane;</l>
+                     <l>Truſt me <hi>(ſaith ſhe)</hi> no ſmart at all I feel,</l>
+                     <l>My onely wound's to think upon thy pain.</l>
+                  </q> 
+                  <hi>Portia</hi> a famous and excel<g ref="char:EOLhyphen"/>lent <hi>Roman</hi> Lady having heard that her moſt dear and beloved husband was dead, her bowels burning
+<pb n="93" facs="tcp:57133:67"/>with an unexpreſſable fire of love for her husband, and finding no knife to kill her ſelf withall, nor cord to hang her ſelf, nor Well to drown her ſelfe, ſhe went to the fire, and with her own hands ſhe caſt down her throat burn<g ref="char:EOLhyphen"/>ing coals.</p>
+               <p>
+                  <hi>Triara</hi> wife to <hi>Lucius Vitellus</hi> ſeeing her husband in a dangerous battail, ſhe preſented her ſelf in the midſt of the ſlaughter, kil<g ref="char:EOLhyphen"/>ling on all ſides till ſhe had hem'd her ſelf in with dead bodies ſlain by her own hand, ſo bold and magna<g ref="char:EOLhyphen"/>nimous a ſpirit had the conjugall love to her hus<g ref="char:EOLhyphen"/>band
+<pb n="94" facs="tcp:57133:68"/>impreſt in her.</p>
+               <p>Admirable was the love of <hi>Julia</hi> towards her hus<g ref="char:EOLhyphen"/>band the great <hi>Pompea,</hi> who ſeeing onely the gown of her husband (which was brought home) beſpotted with blood, and conceiving thereby that ſome miſ<g ref="char:EOLhyphen"/>chance had happened to her husband, ſhe fell into a ſwound, and afterwards the trouble of her ſoul made ſuch a great emotion in her body that ſhe dyed thereof.</p>
+               <p>
+                  <hi>Paula Romana,</hi> after her husbands death, was ſo far from being perſwaded to a ſecond match, that ſhe did never eat nor drink in
+<pb n="95" facs="tcp:57133:68"/>company of any man.</p>
+               <p>
+                  <hi>Proba Valleria Falconia</hi> a Roman Matron (and wife to <hi>Adelphus Romanus</hi> the <hi>Proconſul</hi>) inſcribed her ſelf on her husbands Tomb this <hi>Epitaph,</hi>
+                  <q>
+                     <l>To God, to Prince, wife, kin<g ref="char:EOLhyphen"/>dred, friend, the poor,</l>
+                     <l>Religious, loyall, true, kinde, ſtedfaſt, dear,</l>
+                     <l>In zeal, faith, love, blood, amity and ſtore,</l>
+                     <l>He that ſo liv'd, and ſo de<g ref="char:EOLhyphen"/>ceas'd, yes here.</l>
+                  </q> 
+                  <hi>Pompeia Paulina,</hi> the wife of <hi>Seneca,</hi> when ſhe heard of the Tyrant <hi>Nero's</hi> ſen<g ref="char:EOLhyphen"/>tence of death (that Mon<g ref="char:EOLhyphen"/>ſter who ript up his own mother to ſee the place
+<pb n="96" facs="tcp:57133:69"/>where he had lain) on her husband, ſhe cauſed her own veins to be opened, being reſolved not to ſur<g ref="char:EOLhyphen"/>vive him whom ſhe loved ſo dearly. This Epitaph might have been inſcribed on her Tomb:
+<q>
+                     <l>To theſe, whom death again did wed,</l>
+                     <l>This Grave's the ſecond mar<g ref="char:EOLhyphen"/>riage bed.</l>
+                     <l>For though the hand of Fate could force</l>
+                     <l>T'wixt ſoul and body a di<g ref="char:EOLhyphen"/>vorce,</l>
+                     <l>It could not ſever man and wife,</l>
+                     <l>Becauſe they both liv'd but one life;</l>
+                     <l>Peace, good Reader do not weep,</l>
+                     <pb n="97" facs="tcp:57133:69"/>
+                     <l>Peace, the Lovers are aſleep:</l>
+                     <l>They (ſweet Turtles) folded lye</l>
+                     <l>In the laſt knot that love could tye.</l>
+                     <l>Let them ſleep, let them ſleep on</l>
+                     <l>Till this ſtormy night bee gone;</l>
+                     <l>And th' eternall morrow dawn,</l>
+                     <l>Then the Curtains will bee drawn,</l>
+                     <l>And they waken with that light,</l>
+                     <l>Whoſe day ſhall never ſleep in night.</l>
+                  </q> 
+                  <hi>Rathean Herpin</hi> carried her husband <hi>Chriſtopher Thaeon</hi> (ſtrook by an Apoplexie in all his limbs and members)
+<pb n="98" facs="tcp:57133:70"/>with an invincible con<g ref="char:EOLhyphen"/>ſtancie at ſeverall journies the ſpace of one thouſand three hundred Engliſh miles to a Bath for his reco<g ref="char:EOLhyphen"/>verie. This was about the time that Marquis <hi>Spinola</hi> entred the Palatinate; Sir <hi>Henry Wotton</hi> being the when Engliſh Ambaſſador in thoſe parts.</p>
+               <p>Dr. <hi>Hackets</hi> wife was a religious woman, and a loyal and loving wife to her husband, as this her <hi>Epitaph</hi> denotes.
+<q>
+                     <l>Drop mournful eyes your pearly trickling tears,</l>
+                     <l>Flow ſtreams of ſadneſs, drown the ſpangled ſphears,</l>
+                     <l>Fall like the tumbling Ca<g ref="char:EOLhyphen"/>taracts
+<pb n="99" facs="tcp:57133:70"/>of <hi>Nile,</hi>
+                     </l>
+                     <l>Make deaf the world with cryes, let not a ſmile</l>
+                     <l>Appear, let not an eye be ſeen to ſleep,</l>
+                     <l>Nor ſlumber, onely let them ſerve to weep</l>
+                     <l>Her dear lamented death, who in her life,</l>
+                     <l>Was a religious, loyal loving wife,</l>
+                     <l>Of children tender, to an hus<g ref="char:EOLhyphen"/>band kinde,</l>
+                     <l>Th'undoubted ſymptomes of a vertuous minde;</l>
+                     <l>Which makes her glorious, 'bove the higheſt pole,</l>
+                     <l>Where Angels ſing ſweet re<g ref="char:EOLhyphen"/>quiems to her ſoule;</l>
+                     <l>She liv'd a None-ſuch, did a None-ſuch dye,</l>
+                     <pb n="100" facs="tcp:57133:71"/>
+                     <l>Ne'r none-ſuch here her corps interred lye.</l>
+                  </q> In the time of the ſecond <hi>Punick</hi> War, when the Ro<g ref="char:EOLhyphen"/>mans were overthrown, many that were reported to bee aſſuredly dead, re<g ref="char:EOLhyphen"/>turning home unexpected<g ref="char:EOLhyphen"/>ly to their mothers, ſuch in<g ref="char:EOLhyphen"/>finite joy oppreſſed them at the very inſtant, that be<g ref="char:EOLhyphen"/>twixt the kiſſes and embra<g ref="char:EOLhyphen"/>ces they ſuddenly expired.</p>
+               <p>The wife of <hi>Aruntius</hi> the <hi>Roman</hi> ſlew her ſelf, hear<g ref="char:EOLhyphen"/>ing that her ſonne was drowned.</p>
+               <p>The rumor of the great ſlaughter at the lake of <hi>Thra<g ref="char:EOLhyphen"/>ſimenes</hi> being publiſhed, one woman beyond all hopes,
+<pb n="101" facs="tcp:57133:71"/>meeting her ſon at the City gate, who was ſafely return<g ref="char:EOLhyphen"/>ed from that general defeat, caſt her ſelf into his arms, where in that extaſie of joy ſhe inſtantly expired.</p>
+               <p>Another, hearing that her ſonne was ſlain in the battel, after much ſorrow for his death, ſitting in her houſe, and ſpying her ſonne coming towards her (ſafe in health) ſhe was overcome with a ſudden joy, that not being able to riſe and give him a meeting, ſhe dyed as ſhe ſate in her chaire.</p>
+               <p>The Matrons of <hi>Carthage,</hi> when their ſonnes were ſe<g ref="char:EOLhyphen"/>lected to be ſent as Hoſtages into <hi>Sicilia,</hi> with weeping
+<pb n="102" facs="tcp:57133:72"/>and lamentations followed them unto the Sea-ſide, and kept them ſo faſt hugged in their cloſe imbraces, as they ſuffered them not to goe aboard, untill they were forcibly plucked from them and ſent unto the ſhips; yet then many of theſe lament<g ref="char:EOLhyphen"/>ing mothers, oppreſt with extremity of ſorrow, caſt themſelves headlong into the ſea, and there were drowned.</p>
+               <p>
+                  <hi>Agrippina,</hi> the mother of that cruel <hi>Domitius Nero,</hi> enquired of the <hi>Chaldeans</hi> and <hi>Aſtrologers,</hi> whether by their calculations it were poſſible to find out whether or no her ſon ſhould be cre<g ref="char:EOLhyphen"/>ated
+<pb n="103" facs="tcp:57133:72"/>
+                  <hi>Caeſar.</hi> They returned her this anſwer; that by their Art they found for certain that he ſhould be Emperour, but withall that he ſhould be the death of his mother: to whom ſhe anſwered, <hi>Interficiat, modo imperet;</hi> I care not though he kill me, ſo he may attain to the Empire.</p>
+               <p>
+                  <hi>Harpalice,</hi> the Daughter of <hi>Harpalicus,</hi> reſcued her Father in battel, defeated the enemy and put him to flight.</p>
+               <p>
+                  <hi>Hypſipile</hi> the daughter of <hi>Thoas,</hi> gave life unto her Father, when he was utterly in deſpair of hope or com<g ref="char:EOLhyphen"/>fort.</p>
+               <pb n="104" facs="tcp:57133:73"/>
+               <p>
+                  <hi>Erigone</hi> the daughter of <hi>Iearus,</hi> hearing of the death of her father, ſtrangled her ſelfe.</p>
+               <p>
+                  <hi>Agane,</hi> the Daughter of <hi>Cadmus,</hi> ſlew the King <hi>Ly<g ref="char:EOLhyphen"/>cotharſis</hi> in <hi>Illyria,</hi> and re<g ref="char:EOLhyphen"/>poſſeſt her Father of his be<g ref="char:EOLhyphen"/>fore uſurped Diadem.</p>
+               <p>What a ſtock of piety lived in the breaſt of <hi>Tyro,</hi> the daughter of <hi>Salmoneus,</hi> may be eaſily conjectured, ſince ſhe condeſcended to the loſſe of her onely and dearly-beloved children, for to ſave her Father.</p>
+               <p>
+                  <hi>Niconus</hi> (or as ſome will have it, <hi>Cimonus</hi>) being a ſtraight priſoner, and there adjudged to be ſtarved to
+<pb n="105" facs="tcp:57133:73"/>death, his daugbter <hi>Xantippe</hi> fed him through the iron<g ref="char:EOLhyphen"/>grates with the milk of her own breaſts. What will not <hi>love</hi> invent, or true <hi>zeale</hi> penetrate? What more un<g ref="char:EOLhyphen"/>heard or unexpected thing could be apprehended, then for a <hi>Father</hi> to be fed from the breaſts of his <hi>Daughter?</hi> Who would not imagine this to be againſt Nature? but that we ſee by proof, true Natural pietie tran<g ref="char:EOLhyphen"/>ſcends all bounds and li<g ref="char:EOLhyphen"/>mits.</p>
+               <p>
+                  <hi>Hyas,</hi> a young man, being devoured of a Lyon, the <hi>Hyades</hi> (his ſiſters) deplored his death with ſuch infinite ſorrow, that they wept
+<pb n="104" facs="tcp:57133:74"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="105" facs="tcp:57133:74"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="106" facs="tcp:57133:75"/>themſelves to death.</p>
+               <p>The Prince <hi>Intaphernes,</hi> being condemned to die, with all the male-iſſue of his race, for having cut off the eares and noſe of one of the Waiters, who rudely put him back from entring into the Chamber of <hi>Darius</hi> the Emperor of <hi>Perſia,</hi> and the execution being hourly expected; the Wife of <hi>In<g ref="char:EOLhyphen"/>taphernes</hi> prevailed ſo far with her teares (accompa<g ref="char:EOLhyphen"/>nied with ſuch paſſionate words, as were able to mol<g ref="char:EOLhyphen"/>lifie flint, or ſoften marble) That <hi>Darius</hi> commanded one only, whomſoever ſhe would chooſe, to be ran<g ref="char:EOLhyphen"/>ſomed for the continuance
+<pb n="107" facs="tcp:57133:75"/>of the memory of their name &amp; family; after ſome meditation (contrary to the expectation of all men) ſhe demanded the life of her <hi>Brother:</hi> The King ſome<g ref="char:EOLhyphen"/>what amazed at her choice, ſent for her and demanded the reaſon why ſhe had pre<g ref="char:EOLhyphen"/>ferred the life of a <hi>Brother</hi> before the ſafety of ſuch a Noble <hi>Husband,</hi> or ſuch hopeful <hi>Childrens</hi> To whom ſhe anſwered: <hi>Beholdo King I am yet but young and in my beſt of years, and I may live to have another Husband, and conſequently more Children; but my Father and Mother are both aged; and ſhould I loſe a Brother, I ſhould for ever
+<pb n="108" facs="tcp:57133:76"/>be deprived of that ſacred name!</hi> At which words the King, exceedingly moved to ſee with what a fraternal zeal they were ſpoken, he not only releaſed the Bro<g ref="char:EOLhyphen"/>ther, but likewiſe the eldeſt of her Sonnes. This hiſtory is more amply related by <hi>Sabe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>licus.</hi>
+               </p>
+               <p>A nother Hiſtory doth here repreſent it ſelf to my remembrance, which I have read in <hi>Marul. lib.</hi> 3. <hi>cap.</hi> 2. where he relates that two <hi>Virgins,</hi> the one whereof ſeeing her Bed-fellow lying upon her death-bed, fell upon her knees, &amp; devoutly beſought the Almighty, that ſhe might not ſurvive
+<pb n="109" facs="tcp:57133:76"/>her; but as they had lived together as one ſoule divi<g ref="char:EOLhyphen"/>ded into two bodies, in all ſanctity and ſiſterly love, ſo their chaſte bodies might not be ſeparated in death. God was pleaſed to grant her the effect of her prayer; for both dyed in one day, and they were both buried in one ſepulcher, being fel<g ref="char:EOLhyphen"/>lows in one houſe, one bed, and one grave, and now (queſtionleſſe) joyful and joint-inheritors of one e<g ref="char:EOLhyphen"/>verlaſting Kingdome.</p>
+               <p>Their goodneſſe doth bereave of a voice to pro<g ref="char:EOLhyphen"/>ceed any further: But as <hi>Ariſtotle</hi> being not able to comprehend the <hi>ebbe</hi> and
+<pb n="110" facs="tcp:57133:77"/>
+                  <hi>flow</hi> of an Arm of the Sea, threw himſelf into it; ſo do I drown my ſelf in ſuch a multitude of wonders, not willing any longer to mea<g ref="char:EOLhyphen"/>ſure their loves by the inch of my knowledge. I am tranſported in this great Labyrinth of wonders, and cannot at laſt but break forth and ſay, that thoſe <hi>Satyriſts,</hi> who aſſume to themſelvs ſuch an unbride<g ref="char:EOLhyphen"/>led liberty to inveigh with<g ref="char:EOLhyphen"/>out all limitation againſt this moſt worthy Sexe, are horrid Monſters, whoſe Underſtanding is a pit of darkneſſe, whoſe Reaſon is a ſhop of malice, whoſe will is a Hell, where thouſands
+<pb n="111" facs="tcp:57133:77"/>of paſſions outragiouſly in<g ref="char:EOLhyphen"/>feſt them; their Tongue an inſtrument of curſing, lying and ſlandering, their Face a painted hypocriſie, their Body a ſponge full of envy; and to conclude, they ſeem to have no Faith but infide<g ref="char:EOLhyphen"/>lity, no Lord but their paſ<g ref="char:EOLhyphen"/>ſions, no God but their bel<g ref="char:EOLhyphen"/>ly, who would (if they were able) in their <hi>gluttony</hi> ex<g ref="char:EOLhyphen"/>ceed the Prince <hi>Hugotio Fagiolanus,</hi> who at one dinner devoured the two rich Dukedomes of <hi>Luca</hi> and <hi>Pyſa;</hi> nay, <hi>Smindrides,</hi> who for the furniture of one Table, entertained a thouſand Cooks, a thouſand Bird-catchers, and a thou<g ref="char:EOLhyphen"/>ſand Fiſhermen.
+<pb n="112" facs="tcp:57133:78"/>But as they conſume their time in pleaſures (which ſlide away like waters oc<g ref="char:EOLhyphen"/>caſioned by a ſtorm) ſo they will ſind themſelves deſti<g ref="char:EOLhyphen"/>tute and aſhamed: ſo many <hi>golden harveſts</hi> which time preſented to them are paſ<g ref="char:EOLhyphen"/>ſed away, and nothing is left but ſorrow for having done ill, and impotence to do well: what then remains but to ſay with that miſe<g ref="char:EOLhyphen"/>rable King, who gave away his <hi>Scepter</hi> for a <hi>glaſſe of wa<g ref="char:EOLhyphen"/>ter: Alas, muſt I for ſo ſhort a pleaſure loſe ſo great a king<g ref="char:EOLhyphen"/>dome!</hi> And beſides, there is a place ordained for the wicked, the great lake of Gods wrath, an eternal fire,
+<pb n="113" facs="tcp:57133:78"/>a bottomleſſe depth, where there is no evil but muſt be expected to be found, nor any good that can be hoped for.</p>
+               <p>Happy therefore all thoſe who do attain to that ever<g ref="char:EOLhyphen"/>laſting bleſſed Kingdome, where there is no more po<g ref="char:EOLhyphen"/>verty, no ſickneſs, no grief, no calumny, no perſecution; where the bleſſed ſee God face to face in a body as im<g ref="char:EOLhyphen"/>paſſible as an Angel, as ſub<g ref="char:EOLhyphen"/>tile as the beams of light, as ſwift as the wings of thun<g ref="char:EOLhyphen"/>der, as bright as the Sun; where they do enjoy a de<g ref="char:EOLhyphen"/>licious torrent of unſpeak<g ref="char:EOLhyphen"/>able content; Voices and Muſick, which time cannot
+<pb n="114" facs="tcp:57133:79"/>raviſh away, Odours which are never diſſipated, a Feaſt which is never conſumed; a bleſſing, which though E<g ref="char:EOLhyphen"/>ternity beſtoweth, yet ſhall not Eternity ever ſee an end thereof.</p>
+            </div>
+            <div type="part">
+               <pb n="115" facs="tcp:57133:79"/>
+               <head>Of chaſte Women and Virgins.</head>
+               <p>
+                  <hi>TArquine</hi> the Proud, having been invited by <hi>Collatine</hi> (husband to the chaſte <hi>Lucretia</hi>) to a ſupper, hee was fairly wel<g ref="char:EOLhyphen"/>commed by <hi>Lucretia,</hi> who apprehended no deceit; having ſupt, hee withdrew himſelf to his lodging, and when hee thought that all were faſt aſleep, he came with a naked dagger in his hand to the place where <hi>Lucretia</hi> lay; having re<g ref="char:EOLhyphen"/>courſe to the inſtruments of hatred for his aſſiſtance in love; and he who was
+<pb n="116" facs="tcp:57133:80"/>wont by the ſword to vent his angry paſſions, knows not how to lay it aſide in tendreſt affections; he laies his hand upon his breaſt, he threatens her, he ſpeaks her fair; and ſeeing her rather to imbrace death, than him, ready rather to loſe her life then honour, he threatens to kill ſome ſervant cloſe by her, to make her be be<g ref="char:EOLhyphen"/>leeved a foul adultreſs. See how this wicked one threatens to bereave her of her honour, that he might bereave her of it.</p>
+               <p>
+                  <hi>Lucretia</hi> thus aſſaulted with the ſame weapons wherewith ſhee defended her chaſtity, yeelded to
+<pb n="117" facs="tcp:57133:80"/>
+                  <hi>Tarquins</hi> prevailing luſt.</p>
+               <p>
+                  <hi>Tarquin</hi> departs trium<g ref="char:EOLhyphen"/>phant, ſaddeſt <hi>Lucretia</hi> re<g ref="char:EOLhyphen"/>mains overwhelmed with grief, ſhee ſends for her father and her husband, acquaints them with what is paſt, adding thereunto theſe her laſt words:</p>
+               <p>
+                  <hi>And what could unfortu<g ref="char:EOLhyphen"/>nate</hi> Lucretia <hi>do? if ſhee had dyed that ſhee might have lived chaſte, you would have thought her ſlain for having been unchaſte. O moſt cruel law of Honour, which ſaveſt not the innocent! a law never deſcended from Heaven, but come from the deepeſt abyſſe of Hell.</hi>
+               </p>
+               <p>
+                  <hi>I, who would have mine
+<pb n="118" facs="tcp:57133:81"/>honeſty known to all, have more ſtudied glory then cha<g ref="char:EOLhyphen"/>ſtity; and whilſt I ſought af<g ref="char:EOLhyphen"/>ter the name of chaſte, I am with infamy becom unchaſte: I thought death the worſt of all evils, I thought it the cure of all miſ-fortunes; I feared nothing, ſince I feared not to dye, yet now I was inforc't to chuſe life, not to loſe mine honour, and by living have loſt it.</hi>
+               </p>
+               <p>
+                  <hi>I am reſolved to dye, if not for what hath already befaln mee, at leaſt for what may hereafter happen unto mee. But what then? If I dye, I ſhall ſeem to acknow<g ref="char:EOLhyphen"/>ledge to have done amiſs, they will ſay my guilty conſcience
+<pb n="119" facs="tcp:57133:81"/>kill'd mee. If I live, you will beleeve I have done amiſs, you will ſay I conſented out of too much deſire of life. O, of all others moſt unfortu<g ref="char:EOLhyphen"/>nate</hi> Lucretia, <hi>whoſe inno<g ref="char:EOLhyphen"/>cencie neither life nor death can juſtifie!</hi>
+               </p>
+               <p>
+                  <hi>This ſoul</hi> (<hi>O</hi> Collatine) <hi>whoſe delight was chaſtity, abhors now that body which is polluted, and as being wholly thine, cannot endure that that part of mee ſhould have any longer being, which can no more be onely thine.</hi>
+               </p>
+               <p>
+                  <hi>But what was it in mee that encouraged that wicked one to ſo great a miſchief? perhaps my honeſty, which hee thought greater then that
+<pb n="120" facs="tcp:57133:82"/>of others. Moſt ſacred ho<g ref="char:EOLhyphen"/>neſty, Art thou then become an inciter to luſt? and inſtead of defending, offendeſt? Doſt thou inſtead of bridling deſires, edge on to fury and violence?</hi>
+               </p>
+               <p>
+                  <hi>His heart where cruelty is harboured, which can kill none but the innocent, is like<g ref="char:EOLhyphen"/>wiſe a receptacle of luſt, which can covet none but the chaſte; to have what they deſire, is not that the</hi> Tarquins <hi>do deſire, they finde no pleaſure, where they uſe no force, and like lightning, rend moſt where they finde moſt re<g ref="char:EOLhyphen"/>ſiſtance.</hi>
+               </p>
+               <p>
+                  <hi>And whether can unfor<g ref="char:EOLhyphen"/>tunate</hi> Lucretia <hi>go for re<g ref="char:EOLhyphen"/>venge?
+<pb n="121" facs="tcp:57133:82"/>to the Kings family, who hath injured me? mine own friends, whom I have in<g ref="char:EOLhyphen"/>jured? You gods of hoſpita<g ref="char:EOLhyphen"/>lity, it is you I call upon; but to what purpoſe call I you, ſince you have permitted it? Revenge mee, you infernal powers! but why invoke I you, who were his aſſiſt<g ref="char:EOLhyphen"/>ants?</hi>
+               </p>
+               <p>
+                  <hi>I my ſelf will revenge my ſelf, and will by death take greater revenge on this mine enemy, then by living.</hi>
+               </p>
+               <p>
+                  <hi>I will dye, not to leſſen my faults, but to aggravate his; not for that I have ſinned, but to ſhew that ſhee did not ſub<g ref="char:EOLhyphen"/>ject her ſelf to ſenſe, who vo<g ref="char:EOLhyphen"/>luntary deprives her ſelf of ſenſe.</hi>
+               </p>
+               <pb n="122" facs="tcp:57133:83"/>
+               <p>I <hi>will dye, that</hi> I <hi>may not live in ſo wretched times which make life a ſhame, &amp; to be born, a misfortune. My fall ſhall eaſe your thoughts, make my revenge happy; and</hi> I, <hi>who will not live an example of diſhonour to women, will dye an example of fortitude to men.</hi>
+               </p>
+               <p>This ſaid, <hi>ſhee plunged a knife into her heart, and fell down dead thereon.</hi>
+               </p>
+               <p>
+                  <hi>Theoxena</hi> being environ<g ref="char:EOLhyphen"/>ed at Sea by the Navie of <hi>Philip</hi> King of <hi>Macedon,</hi> ſeeing her husband thrown over-board, leapt after him, not onely to expreſs her love to her husband, but to preſerve her ſelfe
+<pb n="123" facs="tcp:57133:83"/>from the <hi>tyrannie</hi> of the Conqueror.</p>
+               <p>
+                  <hi>Alexander</hi> the Great, wrote a letter to his mo<g ref="char:EOLhyphen"/>ther in this manner, <hi>Alex<g ref="char:EOLhyphen"/>ander the ſonne of Jupiter Hamon, to his mother Olympia wiſheth health:</hi>
+               </p>
+               <p>To whom with great modeſty ſhe thus replyed:</p>
+               <p>
+                  <hi>Dear ſon, as you love mee, inſtead of doing mee honour, proclaim not my diſhonour, neither accuſe mee before</hi> Juno; <hi>beſides, it is a great a<g ref="char:EOLhyphen"/>ſperſion you caſt upon mee, to make mee a, Strumpet though to</hi> Jupiter <hi>himſelf.</hi> And thus this famous Queen would not for any ſwelling title, or vain oſtentation,
+<pb n="124" facs="tcp:57133:84"/>loſe the honour to be called a loyal and chaſte wife.</p>
+               <p>
+                  <hi>Cornelia</hi> the illuſtrious mother of the <hi>Gracchi,</hi> to preſerve the honour of a chaſte widow, denied to marry the King <hi>Ptolomeus,</hi> although he offered to im<g ref="char:EOLhyphen"/>part to her a Diadem and a Scepter.</p>
+               <p>
+                  <hi>Dyrrachina</hi> being taken priſoner, covenanted with her cruel Victor, that if hee would but reprieve her honour for the preſent, ſhe would reveal unto him a ſecret by the which hee ſhould preſerve his body from being wounded. The Souldier having accepted of the condition, ſhee told
+<pb n="125" facs="tcp:57133:84"/>him that it was the vertue of a certain herbe, with whoſe juice if he did anoint any part of his body, it ſhould preſerve it free from being wounded; and to ſhew him the effects there<g ref="char:EOLhyphen"/>of, ſhee from a neighbours garden plucked up the weed that next came to hand, with the ſap or moi<g ref="char:EOLhyphen"/>ſture thereof ſhe anointed her own neck, and bidding him to draw out his ſword and make triall of her whether ſhee kept not a faithfull Covenant with him, the Souldier giving credit to her words, in re<g ref="char:EOLhyphen"/>gard of her conſtancie and courage, with one ſtrong
+<pb n="126" facs="tcp:57133:85"/>blow ſtruck off her head. A moſt reſolute and noble Lady, to prefer death be<g ref="char:EOLhyphen"/>fore the loſſe of her ho<g ref="char:EOLhyphen"/>nour.</p>
+               <p>
+                  <hi>Annia Romana</hi> having buried her firſt husband in her youth, and being con<g ref="char:EOLhyphen"/>tinually perſwaded by her friends to a ſecond marri<g ref="char:EOLhyphen"/>age, ſhe anſwered, it was a motion which ſhe would by no means aſſent unto; for (ſaid ſhe) <hi>Should</hi> I <hi>happen upon a good man, ſuch a one as my firſt husband was,</hi> I <hi>would not then live in that perpetual fear to loſe him; but if otherwiſe, why ſhould I hazard to put my ſelf upon a bad one, that am ſo late
+<pb n="127" facs="tcp:57133:85"/>puniſht by the loſſe of ſo good a one.</hi>
+               </p>
+               <p>
+                  <hi>Democion</hi> the Athenian Virgin, hearing that <hi>Le<g ref="char:EOLhyphen"/>oſthenes,</hi> to whom ſhee was contracted, was ſlain in the wars, ſhe killed her ſelf; but before her death ſhee thus reaſoned with her ſelf: Al<g ref="char:EOLhyphen"/>though my body is un<g ref="char:EOLhyphen"/>toucht, yet, ſhould I fall in<g ref="char:EOLhyphen"/>to the imbraces of another, I ſhould but deceive the ſe<g ref="char:EOLhyphen"/>cond, ſince I am ſtill marri<g ref="char:EOLhyphen"/>ed to the former in my heart.</p>
+               <p>
+                  <hi>Alice</hi> Counteſs of <hi>Salis<g ref="char:EOLhyphen"/>bury,</hi> being importuned continually by King <hi>Ed<g ref="char:EOLhyphen"/>ward</hi> the third, to yeeld un<g ref="char:EOLhyphen"/>to his inordinate deſires,
+<pb n="126" facs="tcp:57133:86"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="127" facs="tcp:57133:86"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="128" facs="tcp:57133:87"/>and having ſent for her, thinking to compel her, and to uſe his royal Autho<g ref="char:EOLhyphen"/>rity, ſhe caſt her ſelf down at the Kings feet, and with an ocean of tears, accom<g ref="char:EOLhyphen"/>pained with words able to mollifie Steel, or to ſoften Flints, ſhe declared, <hi>That ſince her unhappy deſtiny had brought her thither before his preſence as the innocent lamb committed to the ſacrifice, ſhe moſt humbly craved that his Majeſty would be pleaſed to grant unto her one requeſt:</hi> whereat the King replied with a ſolemn oath, that he would not refuſe any thing unto her; ſhee then took a knife which ſhee had con<g ref="char:EOLhyphen"/>veyed
+<pb n="129" facs="tcp:57133:87"/>under her Gown, ſaying, that the requeſt which ſhee had craved, and the which his Majeſty had been pleaſed with his royal Faith to grant her, was, <hi>That ſhe did moſt humb<g ref="char:EOLhyphen"/>ly beſeech him, that he would rather then take away her ho<g ref="char:EOLhyphen"/>nour, with his ſword end her moſt unhappy life, or elſe that hee would be pleaſed to give her leave to kill her ſelf with that knife, which ſhe had pur<g ref="char:EOLhyphen"/>poſely brought, that ſo her innocent bloud might bear witneſs before God of her un<g ref="char:EOLhyphen"/>defiled chaſtity.</hi>
+               </p>
+               <p>The King being aſtoniſht, and aſſured of the chaſtity and conſtancie of this ver<g ref="char:EOLhyphen"/>tuous
+<pb n="130" facs="tcp:57133:88"/>Lady took her to be his lawful wife.</p>
+               <p>
+                  <hi>Baldraca,</hi> though ſhe was of mean parentage, and of an inferior fortune, could neither by threats nor pro<g ref="char:EOLhyphen"/>miſes of worldly honours or promotion, be tempted to proſtitute her ſelf to the Emperor <hi>Otho.</hi>
+               </p>
+               <p>
+                  <hi>Iſabella</hi> a Damſel of <hi>Ra<g ref="char:EOLhyphen"/>venna</hi> threw her ſelf head<g ref="char:EOLhyphen"/>long into the river <hi>Medoa<g ref="char:EOLhyphen"/>cus,</hi> wherein ſhee was drowned, to ſhun the vio<g ref="char:EOLhyphen"/>lent luſts of ſome Venetian Souldiers.</p>
+               <p>
+                  <hi>Britonia</hi> a beautiful maid of <hi>Crete,</hi> to ſhun the im<g ref="char:EOLhyphen"/>portunities of King <hi>Minos,</hi> caſt her ſelf likewiſe into a
+<pb n="131" facs="tcp:57133:88"/>River, where, ſhee was drowned.</p>
+               <p>
+                  <hi>Pithomena</hi> a Virgin of <hi>Alexandria</hi> (being a Citi<g ref="char:EOLhyphen"/>zens ſlave) was ſo fair, and ſo vertuous, that her Ma<g ref="char:EOLhyphen"/>ſter became in love with her; but when he ſaw hee coald neither with promi<g ref="char:EOLhyphen"/>ſes, nor threats gain her, he began to hate her more then ever he had loved her; and though he had accuſed her to be a Chriſtian (as indeed ſhe was) yet never<g ref="char:EOLhyphen"/>theleſs ſhe remained con<g ref="char:EOLhyphen"/>ſtant in her deliberation, and reſolved rather to ſuf<g ref="char:EOLhyphen"/>fer a cruell death (as ſhee did) being put into boy<g ref="char:EOLhyphen"/>ling pitch, then to loſe her chaſtity.</p>
+               <pb n="130" facs="tcp:57133:89"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="131" facs="tcp:57133:89"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="132" facs="tcp:57133:90"/>
+               <p>With her therefore I cloſe this relation of chaſte Women and Vir<g ref="char:EOLhyphen"/>gins; and leſt I ſhould o<g ref="char:EOLhyphen"/>mit any thing that might tend to the grace and ho<g ref="char:EOLhyphen"/>nor of that Sex, I ſhall al<g ref="char:EOLhyphen"/>ledge ſomewhat of their abilities to govern.</p>
+            </div>
+            <div type="part">
+               <pb n="133" facs="tcp:57133:90"/>
+               <head>Of Womens abilities to Govern.</head>
+               <p>
+                  <hi>CEres,</hi> Queen of <hi>Sicil,</hi> was the firſt that taught People to live according unto the <hi>Lawes;</hi> and there<g ref="char:EOLhyphen"/>fore ſhe was by the Ancients called a <hi>Goddeſſe.</hi>
+               </p>
+               <p>
+                  <hi>Mirrhe</hi> Queen of the <hi>Ly<g ref="char:EOLhyphen"/>dians,</hi> was by them reckon<g ref="char:EOLhyphen"/>ed amongſt ſeven of their <hi>Kings,</hi> by which they boaſt to have been governed.</p>
+               <p>
+                  <hi>Semyramis</hi> manfully go<g ref="char:EOLhyphen"/>verned her Kingdome for the ſpace of 24 years, per<g ref="char:EOLhyphen"/>forming many admirable things ſurpaſſing her Sexe.</p>
+               <p>
+                  <hi>Teuca,</hi> a Warlike woman,
+<pb n="132" facs="tcp:57133:91"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="133" facs="tcp:57133:91"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="134" facs="tcp:57133:92"/>Queen of the <hi>Illyrians,</hi> wife unto <hi>Argon,</hi> took upon her ſelfe the ſoveraignty, and governed wiſely; ſhe op<g ref="char:EOLhyphen"/>poſed the violence of the <hi>Romans,</hi> and obtained on them many noble victories.</p>
+               <p>
+                  <hi>Zenobia,</hi> Queen of the <hi>Palmirians,</hi> after the death of her husband <hi>Odenatus,</hi> took upon her the Imperial Regencie, and made the Kingdom of <hi>Syria</hi> tributary unto her.</p>
+               <p>
+                  <hi>Valaſca,</hi> Queen of the <hi>Bohemians,</hi> governed her Kingdom, and managed all her affairs herſelf, without the help or Councel of any man.</p>
+               <p>
+                  <hi>Athalia</hi> Queen of the
+<pb n="135" facs="tcp:57133:92"/>
+                  <hi>Hebrews, Saba</hi> of the <hi>Ethi<g ref="char:EOLhyphen"/>opians, Amalaſuntha</hi> of the <hi>Goths, Heſter</hi> of the <hi>Perſians, Harpalice</hi> of the <hi>Amazons,</hi> do all of them deſerve an immortal praiſe for their well-governing.</p>
+               <p>Queen <hi>Mercea,</hi> wife to <hi>Guinthelinus</hi> king of <hi>Britain</hi> governed wiſely, and eſta<g ref="char:EOLhyphen"/>bliſhed many profitable Lawes, which were much eſteemed by the <hi>Britains,</hi> and carefully obſerved; being called after her name, The <hi>Mercean lawes,</hi> many Ages enſuing.</p>
+               <p>It was a cuſtome among the <hi>Celtans,</hi> a people of <hi>France</hi> (ſeated between the Rivers <hi>Graumna</hi> &amp; <hi>Sequana</hi>)
+<pb n="136" facs="tcp:57133:93"/>to admit their Women to Councel; and in the League which they made with <hi>A<g ref="char:EOLhyphen"/>nibal</hi> this Article was in<g ref="char:EOLhyphen"/>ſerted:</p>
+               <p>
+                  <hi>If ſo be the</hi> Celtans <hi>have any matter of complaint a<g ref="char:EOLhyphen"/>gainſt the</hi> Carthaginians, <hi>the Carthaginian Commander in</hi> Spain <hi>ſhall judge of it: But if the</hi> Carthaginians <hi>have any thing to object againſt the</hi> Celtans, <hi>it ſhall be brought before the</hi> Celtan-<hi>Women.</hi>
+               </p>
+               <p>Did not <hi>Hilkiah, Abikam, Achbor, Shapham</hi> and <hi>Aſa<g ref="char:EOLhyphen"/>hiah</hi> (thoſe prime <hi>States<g ref="char:EOLhyphen"/>men</hi>) conſult concerning State-affairs with <hi>Huldah?</hi>
+               </p>
+               <p>
+                  <hi>Deborah</hi> was ſo able for the publike management,
+<pb n="137" facs="tcp:57133:93"/>that ſhe judged Iſrael, and the people of Iſrael came up conſtantly unto her for judgment.</p>
+               <p>
+                  <hi>Mary</hi> Counteſſe of <hi>Flan<g ref="char:EOLhyphen"/>ders,</hi> wife to the Emperor <hi>Maximilian;</hi> and <hi>Louiſe,</hi> Dutcheſſe of <hi>Savoy,</hi> mother to the French King <hi>Francis</hi> the firſt; by their wiſdome and prudence treated and concluded the peace at <hi>Cambray,</hi> a Town ſeated a<g ref="char:EOLhyphen"/>midſt the ſeventeen Pro<g ref="char:EOLhyphen"/>vinces of the <hi>Netherlands.</hi>
+               </p>
+               <p>Queen <hi>Elizabeth</hi> of hap<g ref="char:EOLhyphen"/>py memory, was admired by her very enemies, name<g ref="char:EOLhyphen"/>ly Pope <hi>Sixtus Quintus,</hi> though he plotted againſt her life, yet he was often
+<pb n="138" facs="tcp:57133:94"/>heard to ſay, that <hi>Elizabeth</hi> of <hi>England,</hi> and <hi>Henry</hi> the IV. of <hi>France,</hi> were able to govern the whole world.</p>
+               <p>I need not inſiſt any lon<g ref="char:EOLhyphen"/>ger on Womens <hi>abilities</hi> to <hi>govern;</hi> ſince it clearly ap<g ref="char:EOLhyphen"/>pears that they have there<g ref="char:EOLhyphen"/>in excelled moſt men: and therefore God never ap<g ref="char:EOLhyphen"/>peared to them in his wrath armed with thunders as a revenger of crimes, but with crowns in his hand, as a dealer of rewards: for this Sexe hath never been in<g ref="char:EOLhyphen"/>fected with ſuch Monſters as <hi>Vitellius, Nero, Heliogabalus, Caligula, Domitian, Catiline, Silla, Achitophel, Herod, Ma<g ref="char:EOLhyphen"/>rius, Nimrod, Sardanapalus</hi>
+                  <pb n="139" facs="tcp:57133:94"/>were, and a thouſand ſuch others, who as they lived moſt deteſtable and horrid lives, ſo they expired with moſt deſerved deaths; ſome by <hi>hunger</hi> and <hi>thirſt,</hi> others were eaten by <hi>horſes, rats,</hi> and <hi>lice,</hi> others devoured by <hi>wolves</hi> and <hi>dogs,</hi> others conſumed by <hi>flames</hi> and <hi>tor<g ref="char:EOLhyphen"/>tures;</hi> ſome were driven naked through the ſtreets, ſaluted with <hi>
+                     <g ref="char:V">Ʋ</g>rinals</hi> and <hi>Chamber-pots;</hi> others were tyed into <hi>bags,</hi> wherein a <hi>Cock,</hi> a <hi>Viper,</hi> and a <hi>Foxe</hi> were put, and thus were they caſt into a river; ſome <hi>ſtrangled,</hi> others <hi>poyſoned</hi> themſelves, and with ſuch like horrid and deteſtable
+<pb n="140" facs="tcp:57133:95"/>ends they met with their final deſtructions.</p>
+               <p>But to divert you from theſe ſad objects of Gods wrath, I will proceed to ſuch as are acceptable and pleaſing, the reward where<g ref="char:EOLhyphen"/>of is everlaſting happineſſe; <hi>viz.</hi> Piety and Religion.</p>
+            </div>
+            <div type="part">
+               <pb n="141" facs="tcp:57133:95"/>
+               <head>Of Pious and Religious Women.</head>
+               <p>
+                  <hi>MAry Magdalen,</hi> and <hi>Martha</hi> did preach the Goſpel of Chriſt, and converted the Country of <hi>Illyria,</hi> which now is called <hi>Sclavonia,</hi> unto the Chri<g ref="char:EOLhyphen"/>ſtian belief.</p>
+               <p>The <hi>Sarahs</hi> were devout beleevers.</p>
+               <p>The <hi>Maries</hi> were humble and mortified perſons.</p>
+               <p>The <hi>Elizabeths</hi> religi<g ref="char:EOLhyphen"/>ouſly obſerved all the com<g ref="char:EOLhyphen"/>mandents of God blame<g ref="char:EOLhyphen"/>leſſe.</p>
+               <p>The <hi>Priſcilla's</hi> were hea<g ref="char:EOLhyphen"/>venly, and rich in diſcourſe.</p>
+               <pb n="142" facs="tcp:57133:96"/>
+               <p>The <hi>Bathſheba's,</hi> the <hi>Loiſes,</hi> and <hi>Funices</hi> were careful in the the inſtructing of their children in the knowledge of God.</p>
+               <p>
+                  <hi>Catherina Alexandria</hi> (un<g ref="char:EOLhyphen"/>der the tyranny of <hi>Maxen<g ref="char:EOLhyphen"/>tius</hi>) was illuminated with divine knowledge from a<g ref="char:EOLhyphen"/>bove, ſhe conſtantly main<g ref="char:EOLhyphen"/>tained the faith of the Go<g ref="char:EOLhyphen"/>ſpel, notwithſtanding all the <hi>Syllogiſtical</hi> and <hi>Sophi<g ref="char:EOLhyphen"/>ſtical Dilemma's</hi> of the cun<g ref="char:EOLhyphen"/>ning <hi>Sophiſters</hi> of thoſe dayes, who were forced to yeeld, and to ſubmit unto the authority of a <hi>Virgins</hi> tongue.</p>
+               <p>
+                  <hi>Iſota Navarula Veronenſis,</hi> devoted her life to the con<g ref="char:EOLhyphen"/>templation
+<pb n="143" facs="tcp:57133:96"/>of divine my<g ref="char:EOLhyphen"/>ſteries, to which ſhe added the honour of a perpetual chaſtity.</p>
+               <p>
+                  <hi>Roſuida</hi> born in <hi>Germany,</hi> compoſed many excellent works, exhorting thoſe of her ſex to Chaſtity, Vertue, and the divine Worſhip; ſhe writ the lives of holy men, and compoſed a di<g ref="char:EOLhyphen"/>vine work of the pious and chaſte life of the bleſſed <hi>Virgin.</hi>
+               </p>
+               <p>
+                  <hi>Fgilbert</hi> King of <hi>England</hi> by the means of his wife received the Chriſtian Faith.</p>
+               <p>
+                  <hi>Hermegides</hi> King of the <hi>Goths,</hi> was drawn from <hi>Arius</hi> hereſies unto the
+<pb n="144" facs="tcp:57133:97"/>Chriſtian Faith by <hi>Nigegond</hi> his wife.</p>
+               <p>
+                  <hi>Cleotilda</hi> Queen of <hi>France,</hi> and wife unto King <hi>Clovis,</hi> made her husband re<g ref="char:EOLhyphen"/>nounce the <hi>Paganiſme,</hi> and become a <hi>Chriſtian.</hi>
+               </p>
+               <p>
+                  <hi>Dorothy Leigh</hi> not long ſince deceaſed, was a pious and religious Gentlewo<g ref="char:EOLhyphen"/>man, ſhe hath left behinde her as a legacy to her chil<g ref="char:EOLhyphen"/>dren, a book of her own making, entituled, <hi>The mo<g ref="char:EOLhyphen"/>thers bleſſing:</hi> It is godly counſel, containing many good exhortations and ad<g ref="char:EOLhyphen"/>monitions.</p>
+               <p>The holy Writ it ſelf (in a moſt divine ſtile) de<g ref="char:EOLhyphen"/>clares unto us mortals the
+<pb n="145" facs="tcp:57133:97"/>wonders of that Sexe, in which God hath been pleaſed to make them ſo far excell, and to expreſſe how much hee was pleaſed with the good return of his mercifull gifts from them, as that it moved the Savi<g ref="char:EOLhyphen"/>our of all the world to publiſh the ſame, <hi>viz.</hi> O <hi>woman great is thy faith!</hi> and with this additional re<g ref="char:EOLhyphen"/>proch to his diſciples, That they had not given him water for his feet, and that they had not ſaluted him with a kiſſe, when as that woman had anointed his feet, and waſht them with her tears, had wiped them with her hairs, and had not
+<pb n="146" facs="tcp:57133:98"/>ceaſed to kiſſe them.</p>
+               <p>And was not our Savi<g ref="char:EOLhyphen"/>our himſelf moved to com<g ref="char:EOLhyphen"/>paſſion by them? hee who was uncapable of any paſ<g ref="char:EOLhyphen"/>ſion, or weakneſs, yet hee did weep, when hee ſaw the tears rowl from <hi>Maries</hi> eyes for <hi>Lazarus</hi> ſake; hee knew the value of that ſo great a treaſure which had been infuſed into that Sex, even ſince the firſt moment of its creation in Paradiſe; and although the ſpirit of deluſion did even there work the fall of man by ſuch an eaſie inſtrument, yet his divine providence would preſerve it to bruiſe that Serpents head with<g ref="char:EOLhyphen"/>all,
+<pb n="147" facs="tcp:57133:98"/>and to confound that ſpirit of darkneſſe, by making it appear, that they ſhould neither forſake nor deny him: and this hee ve<g ref="char:EOLhyphen"/>rified even at the Croſſe, where he was to overcome death it ſelf, when as hee uttered theſe words, <hi>Wo<g ref="char:EOLhyphen"/>man behold thy Son!</hi> So like<g ref="char:EOLhyphen"/>wiſe ſaid hee unto his be<g ref="char:EOLhyphen"/>loved Diſciple, ſpeaking of the bleſſed Virgin, <hi>Be<g ref="char:EOLhyphen"/>hold thy mother.</hi>
+               </p>
+               <p>The women were the firſt that returned to the Sepulcher, whither they went before day. Their faith did excel that of men when as they went with oyntments, not taking care
+<pb n="148" facs="tcp:57133:99"/>who ſhould remove the ſtone from off the Sepul<g ref="char:EOLhyphen"/>cher. So likewiſe did they run unto <hi>Simon Peter,</hi> and to the other Diſciples, to witneſſe the Lords Reſur<g ref="char:EOLhyphen"/>rection; neither did they as the Diſciples return unto their own homes, but re<g ref="char:EOLhyphen"/>mained at the Sepulcher weeping and inquiring af<g ref="char:EOLhyphen"/>ter the Lord, untill that he had appeared unto them; and therefore hee made them to be companions of Angels, who comforted them.</p>
+               <p>O <hi>divine converſation! ô heavenly meeting of an An<g ref="char:EOLhyphen"/>gelical Chore!</hi> when as the Angels askt, Woman why
+<pb n="149" facs="tcp:57133:99"/>weepeſt thou? O what a tranſcendent love ſhee ex<g ref="char:EOLhyphen"/>preſt in ſaying, <hi>Becauſe they have taken away my Lord, and I know not where they have laid him.</hi>
+               </p>
+               <p>But with what a bliſſe was this converſation crowned, when as Chriſt Jeſus himſelf in perſon, would approve himſelf to be the chief in that heaven<g ref="char:EOLhyphen"/>ly conference and enquiry, by his ſaying, <hi>Why weepeſt thou? whom ſeekeſt thou?</hi> and ſo might he wel ſay in<g ref="char:EOLhyphen"/>deed, ſince hee himſelf was there to bid them weep no more. Moſt bleſſed Sexe! though they were forbid<g ref="char:EOLhyphen"/>den to weep, yet may all
+<pb n="150" facs="tcp:57133:100"/>men continue the ſame for the backwardneſs of ſuch as follow not the example of theſe pious and religious women, but to the con<g ref="char:EOLhyphen"/>trary do employ all their faculties to perform onely that which the Epitaph of <hi>Heliogabalus</hi> denotes, <hi>Ede, bibe, lude, poſt mortem nulla voluptas:</hi> imagining that the life of man was only crea<g ref="char:EOLhyphen"/>ted but to eat, and drink, and ſleep; and thus they are meer animals, nay not ſo prudent and moderate, for they do carefully provide thoſe things which do be<g ref="char:EOLhyphen"/>long to the defending of their lives, which moved one to ſay thus:
+<pb n="151" facs="tcp:57133:100"/>
+                  <q>
+                     <l>Nor are theſe creatures to be thought to be</l>
+                     <l>Quite void of th' intellectual faculty;</l>
+                     <l>But that they can diſcern and underſtand</l>
+                     <l>The language ſpoken in their native land,</l>
+                     <l>And might diſcourſe, if to ſo ſtrange a wit,</l>
+                     <l>Nature had lent them but due organs fit.</l>
+                  </q>
+               </p>
+               <p>
+                  <hi>Lucan</hi> reports that the Elephants having waſhed themſelves, they fall down and adore, looking up<g ref="char:EOLhyphen"/>wards towards heaven, af<g ref="char:EOLhyphen"/>ter which they appear to be joyful.</p>
+               <p>The Storks, whereof there are many in <hi>Holland,</hi>
+                  <pb n="152" facs="tcp:57133:101"/>do ere they give food to their young ones look up<g ref="char:EOLhyphen"/>wards towards heaven, as if they gave God thanks; and whereſoever they build their neſt, as a token of their gratitude, they caſt down one of their young ones to the owners of the houſe.</p>
+               <p>The Dove when ſhe picks up her food, at every grain ſhe lifts up her eye towards heaven. And thus theſe harmleſse creatures appeare to be not onely as ſo many teachers to the Rationals, of gratitude for the numberleſſe mercies which they have received from the Almighty for ha<g ref="char:EOLhyphen"/>ving
+<pb n="153" facs="tcp:57133:101"/>made them ſo, when he might have turn'd them into any other ſhape as the Potter doth his clay; but as ſo many judges againſt thoſe who have made not onely Men their gods, but Brutes, Vegetables, and inanimated, <hi>viz.</hi>
+               </p>
+               <p>The <hi>Phaenicians</hi> worſhip<g ref="char:EOLhyphen"/>ped a Serpent.</p>
+               <p>The <hi>Trogloditae</hi> a Tortiſe.</p>
+               <p>The <hi>Theſſalians</hi> a Stork.</p>
+               <p>Thoſe of <hi>Delphos</hi> a Wolf.</p>
+               <p>The men of <hi>Samos</hi> a <hi>Sheep.</hi>
+               </p>
+               <p>The Iſlanders of <hi>Tenedos</hi> a Cow with Calf.</p>
+               <p>The <hi>Romans</hi> a Gooſe.</p>
+               <p>In <hi>Alba</hi> a Dragon.</p>
+               <pb n="154" facs="tcp:57133:102"/>
+               <p>The <hi>Egyptians,</hi> Garlick and Onyons.</p>
+               <p>In ſome parts, a rude and unbeautified Stone. And of ſuch kinde of gods the Pagans had no leſſe then thirty thouſand.</p>
+               <p>If the aforeſaid Elephants, Storks and Doves could ſpeak, no doubt but they would (as <hi>Du-Bartas</hi> ſaith of the aſcending Larks Alleluja) tell men that they do acknowledge but him who is the Creator of all the world, and thereby confound: Alas, but too many of thoſe Monſters who not ſo much as the Pagans believe a God<g ref="char:EOLhyphen"/>head; goddeſſes they will,
+<pb n="155" facs="tcp:57133:102"/>but not ſuch as theſe godly women, who whilſt they lived on earth, might on the Scriptures warrant have been ſaid that they were Gods, and the Tem<g ref="char:EOLhyphen"/>ple of God; wherefore they enjoy Torrents of un<g ref="char:EOLhyphen"/>ſpeakable contentments in an everlaſting Kingdome, where all the elected ſoules of the Apoſtles, Martyrs, Prophets, Angels, Arch<g ref="char:EOLhyphen"/>angels, Thrones, Domini<g ref="char:EOLhyphen"/>ons, Powers, Vertues, Che<g ref="char:EOLhyphen"/>rubims and Seraphims perpetually ſing hymns, and Alleluja; for after they had been on earth as An<g ref="char:EOLhyphen"/>gels in women ſhapes, they could not fail to be their
+<pb n="156" facs="tcp:57133:103"/>fect equals in Heaven, from whence if a meſſage ſhould by them be ſent unto ſome men of this age, what would it bear, but O <hi>yee monſters that ſay there is no God,</hi> who tread the paths (it's true) whereof <hi>Job</hi> ſpeaks, where gold, ſilver, and moulten braſſe is to be found, the Onyx and the Saphir, &amp;c. but not thoſe which theſe ever to be admired Women did, <hi>viz.</hi> the unknown paths which no Fowle knoweth, the Vultures eye hath not ſeen, the Lions whelp hath not troden, nor the fierce Lion paſſeth by; whence Wiſdome com<g ref="char:EOLhyphen"/>meth, which is the fear of
+<pb n="157" facs="tcp:57133:103"/>the <hi>Lord,</hi> and to depart from <hi>evil,</hi> which is <hi>underſtanding.</hi> And that theſe Chriſtian <hi>Women</hi> ſought, and that they found, after they had left behind them thoſe ma<g ref="char:EOLhyphen"/>nifold Examples of their Vertues, which brought them thither, and for the which all Rationals ought to celebrate their <hi>praiſes</hi> with <hi>Garlands, Crowns, Co<g ref="char:EOLhyphen"/>lumns, Statues,</hi> and <hi>Monu<g ref="char:EOLhyphen"/>ments;</hi> and not to preſume to bark at this moſt worthy Sexe: For who, if he be the production of a <hi>woman,</hi> can deride the vertues of his own Mother? Let thoſe <hi>Zoiluſſes</hi> and <hi>Momuſſes,</hi> let them (I ſay) beware of in<g ref="char:EOLhyphen"/>curring
+<pb n="158" facs="tcp:57133:104"/>their juſt curſe, for having not only obſcured as <hi>clouds</hi> the <hi>Sun</hi> that raiſed them, in ſtead of imitating the true <hi>looking-glaſs,</hi> which returns the lively <hi>image</hi> ſo ſoon as the <hi>face</hi> is preſented unto it, without any diſ<g ref="char:EOLhyphen"/>guiſements at all: But for ſhewing themſelves not only wilfully <hi>ignorant,</hi> and monſtrous <hi>ingratefull,</hi> but void of all <hi>ſenſe</hi> and <hi>ſhame.</hi> And though theſe <hi>monſters</hi> doe not acknowledge the unſpeakable deſerts of ver<g ref="char:EOLhyphen"/>tuous <hi>Women,</hi> yet neverthe<g ref="char:EOLhyphen"/>leſſe Truth doth manifeſt to all the world what they are: and it may be juſtly ſaid of them, as <hi>Socrates</hi> an<g ref="char:EOLhyphen"/>ſwered
+<pb n="159" facs="tcp:57133:104"/>to <hi>Hermogenes,</hi> who reproving him for that he did not think at all of de<g ref="char:EOLhyphen"/>fending himſelf when he was accuſed, replied, that he had thought of that all his life time, by ſtriving to live well. And the example of <hi>Demetrius Phalerius,</hi> a Prince of immortal renown teacheth us how little ac<g ref="char:EOLhyphen"/>count is to be made of the dealings of envious men: when as word was brought unto him that the <hi>Athenians</hi> moved with envy againſt him, had broken down the 300 Images which had been erected in the ſtreets of <hi>Ari<g ref="char:EOLhyphen"/>opagus</hi> to his honour; He replied, The <hi>Athenians</hi> may
+<pb n="160" facs="tcp:57133:105"/>well throw down my <hi>Ima<g ref="char:EOLhyphen"/>ges;</hi> but they (nor all the men of the world) are not able to abaſe my <hi>Vertues,</hi> for whoſe ſake my <hi>Images</hi> were erected.</p>
+               <p>And there needs no other examples then theſe ever<g ref="char:EOLhyphen"/>to be admired <hi>Women,</hi> to encourage vertue, and to diſcourage vice; to per<g ref="char:EOLhyphen"/>ſwade both <hi>Sexes</hi> to that eternal bliſſe, which is to be attained by treading the unknown paths; which is not to be found in the <hi>land of the living,</hi> for that the living run that of the Lyon and the Lyons whelp, and depart not from evil, their aim is at <hi>gold</hi> &amp; at the <hi>onix:</hi>
+                  <pb n="161" facs="tcp:57133:105"/>And what is the end of all that path? You may remem<g ref="char:EOLhyphen"/>ber it, if you have read it: Were not all the riches of <hi>Craeſus</hi> the <hi>Perſians</hi> prey? Was not <hi>Cyrus</hi> the Conque<g ref="char:EOLhyphen"/>ror at laſt glad to crave for a cup of water? Did not the <hi>Parthians,</hi> when they had overthrown <hi>Craſſus,</hi> with all his wealth, poure molten gold down his throat, to ſatisfie his greedy deſire of mony? And was not the Treaſure of <hi>Decebalus,</hi> though hidden in the bot<g ref="char:EOLhyphen"/>tome of the great River <hi>Sargeſia,</hi> fiſht out by the <hi>Romans?</hi> Is not the <hi>Aſſyrian</hi> Empire reduced into ſeven mountains? And of thoſe
+<pb n="162" facs="tcp:57133:106"/>great, and ſtrong Cities: <hi>Niniveh,</hi> the walls whereof had fifteen hundred towers; <hi>Babylon,</hi> which was three<g ref="char:EOLhyphen"/>ſcore miles in compaſs; the <hi>Pyramides</hi> at <hi>Amaſia's</hi> Se<g ref="char:EOLhyphen"/>pulcher, in the building whereof thirty ſix thouſand men were imployed above fourſcore years; the great and famous Temple of <hi>Di<g ref="char:EOLhyphen"/>ana,</hi> which was ſcarce fini<g ref="char:EOLhyphen"/>ſhed by the inhabitants of all <hi>Aſia,</hi> in two hundred years; and of all thoſe great <hi>Emperors, Kings,</hi> &amp; <hi>ſumptuous Buildings,</hi> what doth there now remain but duſt? <hi>Vertue</hi> which theſe matchleſs <hi>Wo<g ref="char:EOLhyphen"/>men</hi> ſought only, remained, that never dyeth: therefore
+<pb n="163" facs="tcp:57133:106"/>
+                  <hi>Seneca</hi> ſtudied in his youth time the Art <hi>bene vivendi;</hi> and in his age, <hi>bene mori<g ref="char:EOLhyphen"/>endi.</hi>
+               </p>
+               <p>And ſince <hi>Vertue</hi> was the mark at which theſe ever<g ref="char:EOLhyphen"/>to be admired women did aim, the price which they ſo ran for to obtain; they attained to its poſſeſſion ſo abſolutely, as that nothing was ever able to bereave them thereof.</p>
+               <p>The venemous ſpeeches of thoſe vile Detractors of this moſt worthy Sexe, will therefore prove but as the <hi>fools bolt</hi> ſhot upright, w<hi rend="sup">ch</hi> in the fall endangers their own heads. And it's no wonder (ſince <hi>Diamonds</hi> are cut and
+<pb n="164" facs="tcp:57133:107"/>whilſt deſpiſed <hi>Peebles</hi> lie ſafe in the ſand; and the <hi>Cedars</hi> cruſhed with <hi>tempeſt,</hi> whenas low <hi>ſhrubs</hi> are ſcarce toucht with the wind) that malice ſtrives to make ver<g ref="char:EOLhyphen"/>tuous <hi>Women</hi> ſuffer by ſup<g ref="char:EOLhyphen"/>poſed crimes. But as the <hi>Ruby,</hi> whatſoever Foile it hath, doth yet ſhew red; ſo they will flouriſh and triumph to all poſterity, and their fame remain glo<g ref="char:EOLhyphen"/>rious, as having approved themſelves ſuch Gemmes, wherewith their Creator hath been well pleaſed. The <hi>Elogium</hi> of whoſe Vertues I cannot better cloſe, then with theſe, Mr. <hi>Randal's</hi> Verſes, in praiſe of this moſt worthy Sexe.</p>
+            </div>
+            <div type="verses">
+               <pb facs="tcp:57133:107"/>
+               <lg>
+                  <l>HE is a Paracide to his Mothers name,</l>
+                  <l>And with an impious hand murthers her ſame,</l>
+                  <l>That wrongs the praiſe of women, that dare<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> writ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>Libels on Saints, or with foul ink requite</l>
+                  <l>The milk they lent us. Better Sexe! comman<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>To your defence my more religious hand,</l>
+                  <l>At ſword or pen. Yours was the nobler birth</l>
+                  <l>For you of man were made; man but of earth<g ref="char:punc">▪</g>
+                  </l>
+                  <l>The ſon of dust. And though your ſin did bree<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>His fall; again you rais'd him in your ſeed.</l>
+                  <l>
+                     <hi>Adam</hi> in's ſleep a gainful loſſe ſuſtain'd,</l>
+                  <l>That for one Rib a better ſelf regain'd;</l>
+                  <l>Who had he not your bleſt creation ſeen,</l>
+                  <l>An Anchorite in paradiſe had been.</l>
+                  <l>VVhy in this work did the Creation reſt,</l>
+                  <l>But that th' eternal Providence thought you beſt</l>
+                  <l>Of all his ſix dayes labour? Beaſts ſhould do</l>
+                  <l>Homage to man; but man ſhould wait on you,</l>
+                  <l>You are of comelier ſight, of daintier touch;</l>
+                  <l>A tender fleſh, a colour bright, and ſuch</l>
+                  <l>As <hi>Parians</hi> ſee in marble; Skin more fair,</l>
+                  <l>More glorious head, &amp; far more glorious hair;</l>
+                  <l>Eyes full of grace, and quickneſſe; purer Roſes</l>
+                  <l>Bluſh in your Cheeks; A milder white compoſe<g ref="char:punc">▪</g>
+                  </l>
+                  <l>Your ſtately Fronts; your Breath more ſweet then his,</l>
+                  <l>Breathes ſpice, and Nectar drops at every kiſſe,</l>
+                  <l>Your skins are ſmooth; briſtles on theirs do grow</l>
+                  <l>Like quils of Porcupines, rough wooll doth flow</l>
+                  <l>Ore all their faces; you approach more near</l>
+                  <l>The form of Angels, they like Beaſts appear<g ref="char:punc">▪</g>
+                  </l>
+               </lg>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
